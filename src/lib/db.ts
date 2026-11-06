@@ -4,10 +4,13 @@ const url = process.env.DATABASE_URL;
 if (!url) throw new Error("DATABASE_URL is not set");
 
 const isLocal = /localhost|127\.0\.0\.1/.test(url);
+// Neon's pooled endpoint (PgBouncer, transaction mode) can't use prepared statements.
+const isPooled = /-pooler\./.test(url);
 
 function create() {
   return postgres(url!, {
     max: 5,
+    prepare: !isPooled,
     onnotice: () => {},
     ssl: isLocal ? false : "require",
     // Return DATE columns as plain "YYYY-MM-DD" strings instead of JS Date objects.

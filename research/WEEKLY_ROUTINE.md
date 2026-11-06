@@ -36,9 +36,9 @@ Week id = today's date in Asia/Bangkok, format YYYY-MM-DD (call it WEEK).
 
 3. **Find what changed.** Compare the new files with the archived ones: new
    scholarships, changed values/deadlines, new activities/booths, new slogans.
-   Also check the database for Field Intel submitted by staff this week:
-   `psql "$DATABASE_URL" -c "select uni,title,start_date,location,summary from items where source='field' and first_seen >= current_date - 7"`
-   (DATABASE_URL is in `.env.local`).
+   Also check the hosted database for Field Intel submitted by staff this week (staff use the live site,
+   so read the Neon database, whose direct URL is DATABASE_URL in `.env.neon`):
+   `psql "$(grep '^DATABASE_URL=' .env.neon | cut -d= -f2-)" -c "select uni,title,start_date,location,summary from items where source='field' and first_seen >= current_date - 7"`
    Compare social engagement with last week (table `social_posts`): which university's posts performed
    best, which content formats/themes worked, and any campaign that appeared only on social.
 
@@ -55,7 +55,9 @@ Week id = today's date in Asia/Bangkok, format YYYY-MM-DD (call it WEEK).
    focus faculties. Every insight compares against SPU's own data. Every claim must be
    traceable to an item in research/data or Field Intel.
 
-5. **Load into the dashboard:** `pnpm ingest WEEK`
-   (to load into the hosted database instead, run with that DATABASE_URL).
+5. **Load into the dashboards:**
+   - Hosted site (https://spu-competitor-intel.vercel.app, Neon database): `pnpm ingest:neon WEEK` — this is the one the team uses.
+   - Local copy (optional, for `pnpm dev`): `pnpm ingest WEEK`.
+   No redeploy is needed: the site reads the database on every request.
 
 6. Report: counts per university, number of new items and social posts, Apify cost, the headline.

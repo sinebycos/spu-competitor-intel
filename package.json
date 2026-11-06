@@ -10,7 +10,9 @@
     "db:setup": "tsx --env-file=.env.local scripts/setup-db.ts",
     "ingest": "tsx --env-file=.env.local scripts/ingest.ts",
     "social:fetch": "tsx --env-file=.env.local scripts/social-fetch.ts",
-    "social:normalize": "tsx scripts/social-normalize.ts"
+    "social:normalize": "tsx scripts/social-normalize.ts",
+    "db:setup:neon": "tsx --env-file=.env.local --env-file=.env.neon scripts/setup-db.ts",
+    "ingest:neon": "tsx --env-file=.env.local --env-file=.env.neon scripts/ingest.ts"
   },
   "dependencies": {
     "bcryptjs": "^3.0.3",
