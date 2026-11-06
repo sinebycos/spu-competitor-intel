@@ -1,0 +1,777 @@
+{
+  "university": "spu",
+  "collected_at": "2026-11-06",
+  "activities": [
+    {
+      "title": "SPULAW Open House 2026 (ถอดรหัสกลยุทธ์ระดับโลก บนเวทีที่ไม่ธรรมดา!)",
+      "type": "open_house",
+      "faculty": "all",
+      "start_date": "2026-03-28",
+      "end_date": "2026-03-28",
+      "location": "อาคาร 11 ชั้น 1 โซน A ม.ศรีปทุม บางเขน กทม.",
+      "target": "นักเรียน ม.ปลาย/ปวช. (จำกัด 200 คน ฟรี)",
+      "summary": "คณะนิติศาสตร์ จัดเปิดบ้าน: talk, AI Showcase, Crime Scene, Moot Court จำลอง มีเกียรติบัตร (คณะนอกกลุ่มโฟกัส แต่เป็นตัวอย่างรูปแบบ open house ล่าสุด)",
+      "source_url": "https://www.spu.ac.th/fac/law/spulaw-open-house-2026/"
+    },
+    {
+      "title": "SPU Liberal Arts Open House 2026 (แข่งตอบคำถามภาษาอังกฤษกับ Wall Street English / Andrew Biggs Academy)",
+      "type": "competition",
+      "faculty": "liberal_arts",
+      "start_date": null,
+      "end_date": null,
+      "location": "อาคาร 11 (อาคาร 40 ปี) ม.ศรีปทุม บางเขน",
+      "target": "นักเรียน ม.ปลาย",
+      "summary": "คณะศิลปศาสตร์จัดกิจกรรมแข่งตอบคำถามภาษาอังกฤษ 13:00-15:30 สมัครผ่าน QR code โพสต์ 16 ม.ค. 2569 (ไม่ระบุวันจัดงานชัดเจน)",
+      "source_url": "https://www.spu.ac.th/fac/liberal-arts/spu-liberal-arts-open-house-2026/"
+    },
+    {
+      "title": "OPEN HOUSE LOGISTICS & SUPPLY CHAIN",
+      "type": "open_house",
+      "faculty": "business",
+      "start_date": "2026-02-15",
+      "end_date": "2026-02-15",
+      "location": "วิทยาลัยโลจิสติกส์และซัพพลายเชน ม.ศรีปทุม บางเขน",
+      "target": "นักเรียนมัธยมและผู้สนใจ",
+      "summary": "แนะนำอาชีพโลจิสติกส์ ระบบซัพพลายเชนครบวงจร การใช้ AI วิเคราะห์ข้อมูล และเรียนแบบลงมือปฏิบัติ 08:00-15:00",
+      "source_url": "https://www.spu.ac.th/newsupdate/%E0%B9%80%E0%B8%9B%E0%B8%B4%E0%B8%94%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%95%E0%B8%B9%E0%B8%AA%E0%B8%B9%E0%B9%88%E0%B9%82%E0%B8%A5%E0%B8%81%E0%B9%82%E0%B8%A5%E0%B8%88%E0%B8%B4%E0%B8%AA%E0%B8%95%E0%B8%B4/"
+    },
+    {
+      "title": "SPU Campus Visit (นัดวันเข้าชมมหาวิทยาลัยได้เอง)",
+      "type": "admission_event",
+      "faculty": "all",
+      "start_date": null,
+      "end_date": null,
+      "location": "ม.ศรีปทุม บางเขน",
+      "target": "Dek70 / ผู้สนใจ",
+      "summary": "ลงทะเบียนออนไลน์เลือกคณะและวันเข้าเยี่ยมชมเอง แบนเนอร์ 'Dek70 เรียนอะไรดี? เช็คความเหมาะสมที่ SPU' เปิดต่อเนื่อง",
+      "source_url": "https://www.spu.ac.th/campusvisit"
+    },
+    {
+      "title": "แนะแนวออนไลน์กับพี่ๆ SPU (Guidance)",
+      "type": "webinar",
+      "faculty": "all",
+      "start_date": null,
+      "end_date": null,
+      "location": "ออนไลน์",
+      "target": "Dek70",
+      "summary": "ช่องทางนัดปรึกษาแนะแนวออนไลน์กับเจ้าหน้าที่/รุ่นพี่ SPU",
+      "source_url": "https://www.spu.ac.th/guidance/"
+    },
+    {
+      "title": "คอนเทนต์ซีรีส์ TCAS: รู้จัก TCAS ทั้ง 4 รอบ ฉบับ DEK70 / TGAT / คะแนนต่ำสุด Admission 69",
+      "type": "other",
+      "faculty": "all",
+      "start_date": "2026-11-05",
+      "end_date": null,
+      "location": "ออนไลน์ (เว็บ WHY? SPU)",
+      "target": "Dek70",
+      "summary": "บทความให้ความรู้ TCAS70 เช่น TGAT แต่ละส่วนวัดอะไร, มองสถิติ Admission 69 ฯลฯ เป็น content marketing สร้าง traffic",
+      "source_url": "https://www.spu.ac.th/contents/"
+    },
+    {
+      "title": "ลอยกระทงศรีปทุม 2569 (Loy Krathong Sripatum Festival 2026)",
+      "type": "student_activity",
+      "faculty": "digital_media",
+      "start_date": "2026-11-23",
+      "end_date": "2026-11-24",
+      "location": "สระน้ำหน้า ม.ศรีปทุม กทม.",
+      "target": "ทั่วไป/นักศึกษา/ชุมชน",
+      "summary": "จัดโดยคณะนิเทศศาสตร์และคณะธุรกิจ: ประกวดร้องเพลง นพมาศ กระทงสร้างสรรค์ การแสดง ตลาด 10:00-20:30",
+      "source_url": "https://www.spu.ac.th/newsupdate/%E0%B8%9B%E0%B8%B1%E0%B8%81%E0%B8%AB%E0%B8%A1%E0%B8%B8%E0%B8%94-23-24-%E0%B8%9E-%E0%B8%A2-%E0%B8%99%E0%B8%B5%E0%B9%89-spu-%E0%B8%8A%E0%B8%A7%E0%B8%99%E0%B9%80%E0%B8%97%E0%B8%B5%E0%B9%88/"
+    },
+    {
+      "title": "ปฐมนิเทศนักศึกษาใหม่ 2569 'SPU จุดเริ่มต้นแห่งโอกาส' (S-Start P-Path U-Unlock)",
+      "type": "student_activity",
+      "faculty": "all",
+      "start_date": "2026-06-05",
+      "end_date": "2026-06-07",
+      "location": "ห้องบัวหลวงแกรนด์รูม ม.ศรีปทุม",
+      "target": "นักศึกษาใหม่",
+      "summary": "เปิดตัวแนวคิด 5 Powers of Opportunity / The Wings of Opportunity, Immersive Show โดย SIM Agency SPU เน้น AI และ Future Skills",
+      "source_url": "https://www.bangkokbiznews.com/sustainability/education/1237484"
+    },
+    {
+      "title": "ปฐมนิเทศ + Open House คณะวิศวกรรมศาสตร์ DEK69 (Global Network • AI Fusion • Experience Learning)",
+      "type": "open_house",
+      "faculty": "engineering",
+      "start_date": "2026-06-14",
+      "end_date": "2026-06-14",
+      "location": "ห้องบัวหลวงแกรนด์รูม และอาคาร 5 ม.ศรีปทุม",
+      "target": "นักศึกษาใหม่ DEK69",
+      "summary": "แนะนำ 5 จุดแข็ง, โชว์หุ่นยนต์/ออโตเมชัน, session NISSO ญี่ปุ่น, สาขาใหม่วิศวกรรมหุ่นยนต์และระบบอัตโนมัติ",
+      "source_url": "https://www.spu.ac.th/fac/engineer/spusoe-dek69/"
+    },
+    {
+      "title": "SPUCA Open House 2025 (ปลดล็อก DNA ผ่าน 6 เวิร์กชอป)",
+      "type": "workshop",
+      "faculty": "digital_media",
+      "start_date": "2025-03-29",
+      "end_date": "2025-03-30",
+      "location": "ม.ศรีปทุม บางเขน",
+      "target": "ม.ปลาย/ปวช. (วันละ 350 คน)",
+      "summary": "คณะนิเทศศาสตร์จัด 6 เวิร์กชอป มี E-Certificate; รุ่นปี 2025 ยังไม่พบประกาศปี 2026 (ข้อมูลเก่า ใช้เทียบรูปแบบ)",
+      "source_url": "https://www.camphub.in.th/spuca-open-house-2025/"
+    },
+    {
+      "title": "IT Open House (ซีรีส์ประจำ พานักเรียนต่างจังหวัดสำรวจ AI และอนาคตดิจิทัล)",
+      "type": "open_house",
+      "faculty": "it",
+      "start_date": null,
+      "end_date": null,
+      "location": "ม.ศรีปทุม",
+      "target": "กลุ่มโรงเรียนต่างจังหวัดและครอบครัว",
+      "summary": "ระบุเป็นกิจกรรมประจำในปฏิทิน SPU Opens Its Doors; ไม่พบวันที่ปี 2026",
+      "source_url": "https://www.spu.ac.th/sdgs/?p=3130"
+    },
+    {
+      "title": "SPU AI Prompt Mini Hackathon 2024",
+      "type": "competition",
+      "faculty": "it",
+      "start_date": "2024-02-01",
+      "end_date": null,
+      "location": "ม.ศรีปทุม",
+      "target": "ม.ปลาย/อาชีวะ (300+ คน จาก 28 โรงเรียน)",
+      "summary": "เวทีแข่ง AI Prompt สำหรับ ม.ปลายและอาชีวะ ครั้งแรกในไทย (ข้อมูลเก่า วันที่โดยประมาณเดือนก.พ. 2024)",
+      "source_url": "https://www.brandbuffet.in.th/2024/02/spu-ai-prompt-mini-hackathon-2024/"
+    },
+    {
+      "title": "นักศึกษาปี 1 วิศวกรรมหุ่นยนต์ฯ เรียนรู้คลังสินค้าอัจฉริยะ Café Amazon OASYS",
+      "type": "student_activity",
+      "faculty": "engineering",
+      "start_date": "2026-11-05",
+      "end_date": "2026-11-05",
+      "location": "Café Amazon OASYS",
+      "target": "นักศึกษาปัจจุบัน",
+      "summary": "ดูงานหุ่นยนต์กว่า 40 ตัว ใช้เป็นเนื้อหา PR 'เรียนรู้จากของจริง'",
+      "source_url": "https://www.spu.ac.th/newsupdate/%E0%B8%A7%E0%B8%B4%E0%B8%A8%E0%B8%A7%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%AB%E0%B8%B8%E0%B9%88%E0%B8%99%E0%B8%A2%E0%B8%99%E0%B8%95%E0%B9%8C%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%A3%E0%B8%B0%E0%B8%9A/"
+    },
+    {
+      "title": "IT SPU เปิดโลก AI โลจิสติกส์อัจฉริยะ ที่ปักกิ่ง",
+      "type": "student_activity",
+      "faculty": "it",
+      "start_date": "2026-11-05",
+      "end_date": null,
+      "location": "ปักกิ่ง ประเทศจีน",
+      "target": "นักศึกษาปัจจุบัน",
+      "summary": "ทริปต่างประเทศ AI และ smart logistics สื่อสารจุดขาย GO INTER",
+      "source_url": "https://www.spu.ac.th/newsupdate/it-spu-%e0%b9%80%e0%b8%9b%e0%b8%b4%e0%b8%94%e0%b9%82%e0%b8%a5%e0%b8%81-ai-%e0%b9%82%e0%b8%a5%e0%b8%88%e0%b8%b4%e0%b8%aa%e0%b8%95%e0%b8%b4%e0%b8%81%e0%b8%aa%e0%b9%8c%e0%b8%ad%e0%b8%b1%e0%b8%88%e0%b8%89/"
+    },
+    {
+      "title": "วิทยาลัยการบินฯ / CATH SPU ฝึก Table Manners ในโรงแรมจริง (Mandarin Hotel Surawong)",
+      "type": "student_activity",
+      "faculty": "tourism",
+      "start_date": "2026-11-06",
+      "end_date": "2026-11-06",
+      "location": "Mandarin Hotel Surawong กทม.",
+      "target": "นักศึกษาปัจจุบัน",
+      "summary": "กิจกรรมฝึกปฏิบัติในโรงแรมจริง",
+      "source_url": "https://www.spu.ac.th/newsupdate/%e0%b8%a7%e0%b8%b4%e0%b8%97%e0%b8%a2%e0%b8%b2%e0%b8%a5%e0%b8%b1%e0%b8%a2%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b8%9a%e0%b8%b4%e0%b8%99%e0%b8%af-spu-%e0%b8%9d%e0%b8%b6%e0%b8%81-table-manners-%e0%b8%93/"
+    },
+    {
+      "title": "ห้องเรียนภาพยนตร์ยกระดับ: เรียนกับ Cinematographer มืออาชีพ",
+      "type": "workshop",
+      "faculty": "digital_media",
+      "start_date": "2026-11-06",
+      "end_date": "2026-11-06",
+      "location": "ม.ศรีปทุม",
+      "target": "นักศึกษาปัจจุบัน",
+      "summary": "เชื่อมความรู้เครื่องมือกับประสบการณ์จริงจากผู้เชี่ยวชาญ",
+      "source_url": "https://www.spu.ac.th/newsupdate/%e0%b8%a2%e0%b8%81%e0%b8%a3%e0%b8%b0%e0%b8%94%e0%b8%b1%e0%b8%9a%e0%b8%ab%e0%b9%89%e0%b8%ad%e0%b8%87%e0%b9%80%e0%b8%a3%e0%b8%b5%e0%b8%a2%e0%b8%99%e0%b8%a0%e0%b8%b2%e0%b8%9e%e0%b8%a2%e0%b8%99%e0%b8%95/"
+    }
+  ],
+  "scholarships": [
+    {
+      "name": "ทุน SPU ตัวจริง (DEKSPU)",
+      "value_text": "100% ค่าหน่วยกิตตลอดหลักสูตร",
+      "value_pct": 100,
+      "conditions": "ม.6/เทียบเท่า ส่ง Portfolio 'ความเป็นตัวจริง' + ทรานสคริปต์ 5 เทอม ค่าสมัคร 200 บาท สัมภาษณ์ รักษา GPA 2.75; สมัครถึง 31 ธ.ค. 2569 ประกาศผู้มีสิทธิ์สัมภาษณ์ 20 ม.ค. 2570 ประกาศผล 12 ก.พ. 2570 รายงานตัว 26 ก.พ. 2570 ยกเว้น SPUGDA",
+      "tcas_round": "portfolio",
+      "faculty": "all",
+      "valid_from": null,
+      "valid_to": "2026-12-31",
+      "source_url": "https://www.spu.ac.th/scholarship-real/"
+    },
+    {
+      "name": "ทุน SPU Portfolio (Portfolio 3ดี)",
+      "value_text": "ส่วนลดค่าบำรุงการศึกษา 25,000 บาท (บางหน้าระบุ 40,000 บาท)",
+      "value_pct": null,
+      "conditions": "ม.6/ปวช./กศน. ส่ง Portfolio + ใบรับรองเกรด 5 เทอม รักษา GPA 2.75 รู้ผลใน 2 สัปดาห์ ทุกคณะยกเว้น SPUGDA",
+      "tcas_round": "portfolio",
+      "faculty": "all",
+      "valid_from": null,
+      "valid_to": null,
+      "source_url": "https://www.spu.ac.th/scholarship-port70/"
+    },
+    {
+      "name": "ทุน SPU โควตา (DEK70)",
+      "value_text": "ส่วนลดสูงสุด 20,000 บาท ไม่ต้องสอบ ไม่กำหนดเกรดขั้นต่ำ",
+      "value_pct": null,
+      "conditions": "ลงทะเบียนก่อนจบ ม.6 ได้ ใช้ร่วม กยศ. ได้; หักเทอม1 5,000 และเทอม2 5,000; ปวส. เทียบโอนสูงสุด 15,000 บาท",
+      "tcas_round": "quota",
+      "faculty": "all",
+      "valid_from": null,
+      "valid_to": "2026-11-30",
+      "source_url": "https://dekport.com/activity/spu-spark-scholarship-2569"
+    },
+    {
+      "name": "ทุน SPU TCAS",
+      "value_text": "สูงสุด 20,000 บาท",
+      "value_pct": null,
+      "conditions": "ใช้ผลสอบ TCAS ยื่นสมัคร (ไม่ระบุรอบ/เงื่อนไขละเอียด)",
+      "tcas_round": "admission",
+      "faculty": "all",
+      "valid_from": null,
+      "valid_to": null,
+      "source_url": "https://www.spu.ac.th/scholarship70/"
+    },
+    {
+      "name": "ทุน Influencer",
+      "value_text": "100% ค่าหน่วยกิตตลอดหลักสูตร",
+      "value_pct": 100,
+      "conditions": "ไม่ระบุในหน้ารวมทุน",
+      "tcas_round": "unknown",
+      "faculty": "all",
+      "valid_from": null,
+      "valid_to": null,
+      "source_url": "https://www.spu.ac.th/scholarship70/"
+    },
+    {
+      "name": "ทุนนักกีฬา",
+      "value_text": "100% ค่าหน่วยกิตและค่าบำรุงการศึกษา 1 ปีการศึกษา",
+      "value_pct": 100,
+      "conditions": "ไม่ระบุรายละเอียด",
+      "tcas_round": "unknown",
+      "faculty": "all",
+      "valid_from": null,
+      "valid_to": null,
+      "source_url": "https://www.spu.ac.th/scholarship70/"
+    },
+    {
+      "name": "ทุนศิลปวัฒนธรรม",
+      "value_text": "100% ค่าหน่วยกิตและค่าบำรุงการศึกษา 1 ปีการศึกษา",
+      "value_pct": 100,
+      "conditions": "ไม่ระบุรายละเอียด",
+      "tcas_round": "unknown",
+      "faculty": "all",
+      "valid_from": null,
+      "valid_to": null,
+      "source_url": "https://www.spu.ac.th/scholarship70/"
+    },
+    {
+      "name": "ทุน SPU Family",
+      "value_text": "ส่วนลดค่าบำรุงการศึกษาสูงสุด 20,000 บาท",
+      "value_pct": null,
+      "conditions": "นามสกุลเดียวกับบุคลากร/ศิษย์เก่า/ศิษย์ปัจจุบัน ม.ศรีปทุมและวิทยาลัยในเครือ",
+      "tcas_round": "unknown",
+      "faculty": "all",
+      "valid_from": null,
+      "valid_to": null,
+      "source_url": "https://www.spu.ac.th/scholarship70/"
+    },
+    {
+      "name": "ทุนบุคลากรและครอบครัวข้าราชการทหาร/ตำรวจ",
+      "value_text": "20% ค่าหน่วยกิตตลอดหลักสูตร",
+      "value_pct": 20,
+      "conditions": "ทุกคณะ ยกเว้นนิติศาสตร์ภาคพิเศษ",
+      "tcas_round": "unknown",
+      "faculty": "all",
+      "valid_from": null,
+      "valid_to": null,
+      "source_url": "https://www.spu.ac.th/scholarship70/"
+    },
+    {
+      "name": "ทุน SDM Next-Gen Creator Talent",
+      "value_text": "ส่วนลดค่าบำรุงการศึกษา 40,000 บาท",
+      "value_pct": null,
+      "conditions": "Portfolio ด้านดิจิทัลอาร์ต แอนิเมชัน เกม",
+      "tcas_round": "portfolio",
+      "faculty": "digital_media",
+      "valid_from": null,
+      "valid_to": null,
+      "source_url": "https://www.spu.ac.th/scholarship-portsdm/"
+    },
+    {
+      "name": "ทุน SPUCA DNA: Pitch to Production",
+      "value_text": "ส่วนลดค่าบำรุงการศึกษา 40,000 บาท",
+      "value_pct": null,
+      "conditions": "Portfolio ด้านสื่อ การแสดง การผลิตคอนเทนต์ (คณะนิเทศศาสตร์)",
+      "tcas_round": "portfolio",
+      "faculty": "digital_media",
+      "valid_from": null,
+      "valid_to": null,
+      "source_url": "https://www.spu.ac.th/scholarship-portca/"
+    },
+    {
+      "name": "ทุน SoDA Sketch to Space Challenge",
+      "value_text": "ส่วนลดค่าบำรุงการศึกษา 40,000 บาท",
+      "value_pct": null,
+      "conditions": "Portfolio วาด/ออกแบบพื้นที่/สถาปัตยกรรม",
+      "tcas_round": "portfolio",
+      "faculty": "architecture",
+      "valid_from": null,
+      "valid_to": null,
+      "source_url": "https://www.spu.ac.th/scholarship-portsoda/"
+    },
+    {
+      "name": "ทุน Future Business Talent",
+      "value_text": "ส่วนลดค่าบำรุงการศึกษา 40,000 บาท",
+      "value_pct": null,
+      "conditions": "การตลาดดิจิทัล การเงิน ธุรกิจยุคใหม่ (คณะบริหารธุรกิจ)",
+      "tcas_round": "portfolio",
+      "faculty": "business",
+      "valid_from": null,
+      "valid_to": null,
+      "source_url": "https://www.spu.ac.th/scholarship70/"
+    },
+    {
+      "name": "ทุน Zero to One (WISE)",
+      "value_text": "ส่วนลดค่าบำรุงการศึกษา 40,000 บาท",
+      "value_pct": null,
+      "conditions": "ไอเดียสตาร์ทอัป/สร้างธุรกิจ (คณะการสร้างเจ้าของธุรกิจ)",
+      "tcas_round": "portfolio",
+      "faculty": "business",
+      "valid_from": null,
+      "valid_to": null,
+      "source_url": "https://www.spu.ac.th/scholarship70/"
+    },
+    {
+      "name": "ทุน The Professional",
+      "value_text": "ส่วนลดค่าบำรุงการศึกษา 40,000 บาท",
+      "value_pct": null,
+      "conditions": "ซัพพลายเชนและโลจิสติกส์อัจฉริยะ (วิทยาลัยโลจิสติกส์การบินและสมาร์ทโมบิลิตี้)",
+      "tcas_round": "portfolio",
+      "faculty": "business",
+      "valid_from": null,
+      "valid_to": null,
+      "source_url": "https://www.spu.ac.th/scholarship70/"
+    },
+    {
+      "name": "ทุน ACC SPU Future Talent",
+      "value_text": "ส่วนลดค่าบำรุงการศึกษา 40,000 บาท",
+      "value_pct": null,
+      "conditions": "บัญชีและการเงินดิจิทัล (คณะบัญชี)",
+      "tcas_round": "portfolio",
+      "faculty": "business",
+      "valid_from": null,
+      "valid_to": null,
+      "source_url": "https://www.spu.ac.th/scholarship70/"
+    },
+    {
+      "name": "ทุน Engineer Spark",
+      "value_text": "ส่วนลดค่าบำรุงการศึกษา 40,000 บาท",
+      "value_pct": null,
+      "conditions": "วิศวกรรม นวัตกรรม สิ่งประดิษฐ์",
+      "tcas_round": "portfolio",
+      "faculty": "engineering",
+      "valid_from": null,
+      "valid_to": null,
+      "source_url": "https://www.spu.ac.th/scholarship70/"
+    },
+    {
+      "name": "ทุน SPU Tech Talent",
+      "value_text": "ส่วนลดค่าบำรุงการศึกษา 40,000 บาท ไม่ต้องรอผลสอบ ไม่ต้องสัมภาษณ์",
+      "value_pct": null,
+      "conditions": "Portfolio เขียนโปรแกรม/คอมพิวเตอร์/AI ส่งภายใน 15 ต.ค. 2569 (ข่าวโพสต์ 6 ต.ค. 2569; หน้าอื่นอาจขยายเวลา)",
+      "tcas_round": "portfolio",
+      "faculty": "it",
+      "valid_from": "2026-10-06",
+      "valid_to": "2026-10-15",
+      "source_url": "https://www.spu.ac.th/fac/informatics/%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%9B%E0%B8%97%E0%B8%B8%E0%B8%A1%E0%B9%80%E0%B8%9B%E0%B8%B4%E0%B8%94%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B9%82%E0%B8%84%E0%B8%A7%E0%B8%95%E0%B8%B2-dek70-%E0%B8%A3%E0%B8%B1/"
+    },
+    {
+      "name": "ทุน Passion to Profession",
+      "value_text": "ส่วนลดค่าบำรุงการศึกษา 40,000 บาท (สำหรับผู้ไม่กู้ยืม)",
+      "value_pct": null,
+      "conditions": "งานบริการ ธุรกิจการบิน โรงแรม (วิทยาลัยการบิน การท่องเที่ยวและการบริการ)",
+      "tcas_round": "portfolio",
+      "faculty": "tourism",
+      "valid_from": null,
+      "valid_to": null,
+      "source_url": "https://www.spu.ac.th/scholarship-portcath/"
+    },
+    {
+      "name": "ทุน Language Leader",
+      "value_text": "ส่วนลดค่าบำรุงการศึกษา 40,000 บาท",
+      "value_pct": null,
+      "conditions": "ภาษาต่างประเทศ อังกฤษ จีน ญี่ปุ่น (คณะศิลปศาสตร์)",
+      "tcas_round": "portfolio",
+      "faculty": "liberal_arts",
+      "valid_from": null,
+      "valid_to": null,
+      "source_url": "https://www.spu.ac.th/scholarship70/"
+    },
+    {
+      "name": "ทุน SPUIC Portfolio Talent Scholarship",
+      "value_text": "ส่วนลด 40,000 บาท",
+      "value_pct": null,
+      "conditions": "หลักสูตรนานาชาติ ภาษาอังกฤษ + Portfolio",
+      "tcas_round": "portfolio",
+      "faculty": "liberal_arts",
+      "valid_from": null,
+      "valid_to": null,
+      "source_url": "https://www.spu.ac.th/scholarship-portspuic/"
+    },
+    {
+      "name": "ทุนวิทยาลัยในเครือไทย-เทค",
+      "value_text": "ส่วนลดค่าบำรุงการศึกษา 40,000 บาท",
+      "value_pct": null,
+      "conditions": "แบนเนอร์เท่านั้น ผู้ศึกษาต่อจากวิทยาลัยในเครือ",
+      "tcas_round": "direct",
+      "faculty": "all",
+      "valid_from": null,
+      "valid_to": null,
+      "source_url": "https://www.spu.ac.th/scholarship70/"
+    },
+    {
+      "name": "ทุนโรงเรียนสารวิทยา",
+      "value_text": "50% ค่าหน่วยกิตตลอดหลักสูตร",
+      "value_pct": 50,
+      "conditions": "แบนเนอร์เท่านั้น",
+      "tcas_round": "direct",
+      "faculty": "all",
+      "valid_from": null,
+      "valid_to": null,
+      "source_url": "https://www.spu.ac.th/scholarship70/"
+    },
+    {
+      "name": "ทุนวิทยาลัยอาชีวศึกษาสันติราษฎร์ (SIBA)",
+      "value_text": "ส่วนลด 20,000 บาท",
+      "value_pct": null,
+      "conditions": "แบนเนอร์เท่านั้น",
+      "tcas_round": "direct",
+      "faculty": "all",
+      "valid_from": null,
+      "valid_to": null,
+      "source_url": "https://www.spu.ac.th/scholarship70/"
+    },
+    {
+      "name": "ทุนวิบูลย์บริหารธุรกิจ รามอินทรา (Vbac)",
+      "value_text": "ส่วนลดค่าบำรุงการศึกษา 20,000 บาท",
+      "value_pct": null,
+      "conditions": "แบนเนอร์เท่านั้น",
+      "tcas_round": "direct",
+      "faculty": "business",
+      "valid_from": null,
+      "valid_to": null,
+      "source_url": "https://www.spu.ac.th/scholarship70/"
+    },
+    {
+      "name": "ทุนภายใน 103 ทุน (ดร.สุข-ดร.มาลินี 13 ทุน 100% / เรียนดี Gifted 45 ทุน 50% / นักกิจกรรม 45 ทุน 100%)",
+      "value_text": "100% / 50% / 100% ตามประเภท",
+      "value_pct": null,
+      "conditions": "สำหรับนักศึกษาปัจจุบันชั้นปี 2+ รหัส 66-68 ปีการศึกษา 2569 (ไม่ใช่ทุนดึงนักศึกษาใหม่ แต่ใช้ PR ทุนรวม)",
+      "tcas_round": "unknown",
+      "faculty": "all",
+      "valid_from": null,
+      "valid_to": "2026-06-30",
+      "source_url": "https://www.eduzones.com/2026/06/07/spu-2/"
+    },
+    {
+      "name": "SPU Spark Scholarship (ป.โท/ป.เอก 2569)",
+      "value_text": "ป.โท 10,000 (นิติ 20,000) / ป.เอก 20,000 (นิติ 30,000) บาท",
+      "value_pct": null,
+      "conditions": "ลงทะเบียนภายใน 31 ก.ค. 2569 (ระดับบัณฑิตศึกษา)",
+      "tcas_round": "direct",
+      "faculty": "all",
+      "valid_from": null,
+      "valid_to": "2026-07-31",
+      "source_url": "https://dekport.com/activity/spu-spark-scholarship-2569"
+    },
+    {
+      "name": "ทุน Hello SPU",
+      "value_text": "สูงสุด 30,000 บาท (สายพอร์ต) / สูงสุด 40,000 บาท (เรียนดี กิจกรรมแน่น)",
+      "value_pct": null,
+      "conditions": "DEK70 สมัครและลงทะเบียนผ่าน spu.ac.th (พบจาก IG/TikTok ทางการ)",
+      "tcas_round": "portfolio",
+      "faculty": "all",
+      "valid_from": null,
+      "valid_to": null,
+      "source_url": "https://www.instagram.com/p/DfRguqAjJ9c/"
+    }
+  ],
+  "pr_messages": [
+    {
+      "channel": "website",
+      "headline": "เรียนกับตัวจริง ประสบการณ์จริง",
+      "keywords": [
+        "เรียนกับตัวจริง",
+        "Learn From The Professionals",
+        "Real World Experience"
+      ],
+      "theme": "industry_partner",
+      "faculty": "all",
+      "date": "2026-11-04",
+      "source_url": "https://www.spu.ac.th"
+    },
+    {
+      "channel": "website",
+      "headline": "ส่งเสริมผลักดัน (Support & Empower) / ทักษะแห่งอนาคต (Future Skill) / โอกาส",
+      "keywords": [
+        "Future Skill",
+        "Opportunity",
+        "Support & Empower"
+      ],
+      "theme": "career",
+      "faculty": "all",
+      "date": "2026-11-04",
+      "source_url": "https://www.spu.ac.th"
+    },
+    {
+      "channel": "website",
+      "headline": "GO INTER · DUAL DEGREE · เรียนข้ามศาสตร์ · Learn to Earn",
+      "keywords": [
+        "GO INTER",
+        "DUAL DEGREE",
+        "Learn to Earn"
+      ],
+      "theme": "international",
+      "faculty": "all",
+      "date": "2026-11-04",
+      "source_url": "https://www.spu.ac.th"
+    },
+    {
+      "channel": "news",
+      "headline": "SPU จุดเริ่มต้นแห่งโอกาส (S-Start : P-Path : U-Unlock)",
+      "keywords": [
+        "จุดเริ่มต้นแห่งโอกาส",
+        "5 Powers of Opportunity",
+        "The Wings of Opportunity"
+      ],
+      "theme": "career",
+      "faculty": "all",
+      "date": "2026-06-10",
+      "source_url": "https://www.bangkokbiznews.com/sustainability/education/1237484"
+    },
+    {
+      "channel": "news",
+      "headline": "ม.ศรีปทุม เปิดสมัครทุนภายในปี 2569 แจกกว่า 103 ทุน เรียนฟรี 100% และทุนลดค่าเทอมตลอดหลักสูตร",
+      "keywords": [
+        "103 ทุน",
+        "เรียนฟรี 100%",
+        "ทุนลดค่าเทอม"
+      ],
+      "theme": "price",
+      "faculty": "all",
+      "date": "2026-06-07",
+      "source_url": "https://www.eduzones.com/2026/06/07/spu-2/"
+    },
+    {
+      "channel": "website",
+      "headline": "ศรีปทุมเปิดรับโควตา DEK70 รับทุนสูงสุด 20,000 บาท ไม่ต้องสอบ",
+      "keywords": [
+        "DEK70",
+        "โควตา",
+        "ไม่ต้องสอบ",
+        "20,000 บาท"
+      ],
+      "theme": "price",
+      "faculty": "all",
+      "date": "2026-10-06",
+      "source_url": "https://www.spu.ac.th/fac/informatics/%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%9B%E0%B8%97%E0%B8%B8%E0%B8%A1%E0%B9%80%E0%B8%9B%E0%B8%B4%E0%B8%94%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B9%82%E0%B8%84%E0%B8%A7%E0%B8%95%E0%B8%B2-dek70-%E0%B8%A3%E0%B8%B1/"
+    },
+    {
+      "channel": "website",
+      "headline": "Dek70 พร้อมมั้ย? มีที่เรียนก่อนใคร",
+      "keywords": [
+        "Dek70",
+        "มีที่เรียนก่อนใคร",
+        "ทุนโควตา"
+      ],
+      "theme": "price",
+      "faculty": "all",
+      "date": null,
+      "source_url": "https://www.spu.ac.th/quota70-3/"
+    },
+    {
+      "channel": "ads",
+      "headline": "#DEK70 มีที่เรียนก่อนใคร มันเท่กว่าเยอะ! รับเลยทุน SPU โควตา สูงสุด 20,000 บาท",
+      "keywords": [
+        "#DEK70",
+        "#SripatumUniversity",
+        "#SPU",
+        "ทุน SPU โควตา"
+      ],
+      "theme": "price",
+      "faculty": "all",
+      "date": "2026-05-01",
+      "source_url": "https://x.com/spufriends/status/2050085306427121944"
+    },
+    {
+      "channel": "ads",
+      "headline": "#DEK70 ปวส. มาก่อนได้ รับสิทธิ์ดีๆ กว่าใคร ทุน SPU โควตา สูงสุด 15,000 บาท",
+      "keywords": [
+        "#DEK70",
+        "ปวส.",
+        "ทุน SPU โควตา"
+      ],
+      "theme": "price",
+      "faculty": "all",
+      "date": null,
+      "source_url": "https://x.com/spufriends/status/2062013907259240822"
+    },
+    {
+      "channel": "website",
+      "headline": "DEK70 อยากเป็นตัวจริง สมัครเลยคลิก (ทุน SPU ตัวจริง DEKSPU รับทุน 100%)",
+      "keywords": [
+        "DEKSPU",
+        "ตัวจริง",
+        "ทุน 100%"
+      ],
+      "theme": "price",
+      "faculty": "all",
+      "date": null,
+      "source_url": "https://www.spu.ac.th/scholarship-real/"
+    },
+    {
+      "channel": "website",
+      "headline": "สบายกว่านี้ไม่มีอีกแล้ว! (รายงานตัวออนไลน์ 'SPU รหัส 70')",
+      "keywords": [
+        "SPU รหัส 70",
+        "รายงานตัวออนไลน์"
+      ],
+      "theme": "lifestyle",
+      "faculty": "all",
+      "date": "2026-09-30",
+      "source_url": "https://www.spu.ac.th/bachelorlearn70/"
+    },
+    {
+      "channel": "website",
+      "headline": "Dek70 เรียนอะไรดี? เช็คความเหมาะสมที่ SPU ได้แล้วที่นี่",
+      "keywords": [
+        "Dek70",
+        "Campus Visit",
+        "เรียนอะไรดี"
+      ],
+      "theme": "other",
+      "faculty": "all",
+      "date": null,
+      "source_url": "https://www.spu.ac.th"
+    },
+    {
+      "channel": "website",
+      "headline": "TGAT แต่ละส่วนวัดอะไร? รู้ก่อนได้เปรียบ แถมไม่ต้องติวมั่วซั่ว",
+      "keywords": [
+        "TCAS70",
+        "TGAT",
+        "รู้ก่อนได้เปรียบ",
+        "Admission 69"
+      ],
+      "theme": "other",
+      "faculty": "all",
+      "date": "2026-11-05",
+      "source_url": "https://www.spu.ac.th/contents/"
+    },
+    {
+      "channel": "website",
+      "headline": "Global Network • AI Fusion • Experience Learning",
+      "keywords": [
+        "AI Fusion",
+        "Global Network",
+        "Experience Learning"
+      ],
+      "theme": "tech_ai",
+      "faculty": "engineering",
+      "date": "2026-06-14",
+      "source_url": "https://www.spu.ac.th/fac/engineer/spusoe-dek69/"
+    },
+    {
+      "channel": "news",
+      "headline": "SPU โชว์พลังนวัตกรรมและ AI ในงาน One Stop Open House 2026 (Open Mind, Open Future)",
+      "keywords": [
+        "One Stop Open House",
+        "AI",
+        "นวัตกรรม",
+        "Future Workforce"
+      ],
+      "theme": "tech_ai",
+      "faculty": "all",
+      "date": "2026-03-08",
+      "source_url": "https://www.spu.ac.th/newsupdate/spu-%E0%B9%82%E0%B8%8A%E0%B8%A7%E0%B9%8C%E0%B8%9E%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%99%E0%B8%A7%E0%B8%B1%E0%B8%95%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B9%81%E0%B8%A5%E0%B8%B0-ai-%E0%B9%83%E0%B8%99/"
+    },
+    {
+      "channel": "website",
+      "headline": "ถอดรหัสกลยุทธ์ระดับโลก บนเวทีที่ไม่ธรรมดา! (SPULAW Open House 2026)",
+      "keywords": [
+        "SPULAW",
+        "AI Showcase",
+        "Moot Court"
+      ],
+      "theme": "creative",
+      "faculty": "all",
+      "date": "2026-03-28",
+      "source_url": "https://www.spu.ac.th/fac/law/spulaw-open-house-2026/"
+    },
+    {
+      "channel": "facebook",
+      "headline": "#เรียนกับตัวจริงประสบการณ์จริง #เรียนรู้ภาษา #ก้าวหน้าอย่างมืออาชีพ",
+      "keywords": [
+        "#เรียนกับตัวจริงประสบการณ์จริง",
+        "ภาษา"
+      ],
+      "theme": "industry_partner",
+      "faculty": "liberal_arts",
+      "date": "2026-01-16",
+      "source_url": "https://www.spu.ac.th/fac/liberal-arts/spu-liberal-arts-open-house-2026/"
+    },
+    {
+      "channel": "news",
+      "headline": "IT SPU เปิดโลก AI โลจิสติกส์อัจฉริยะ ที่ปักกิ่ง",
+      "keywords": [
+        "AI",
+        "smart logistics",
+        "ปักกิ่ง"
+      ],
+      "theme": "international",
+      "faculty": "it",
+      "date": "2026-11-05",
+      "source_url": "https://www.spu.ac.th/newsupdate/it-spu-%e0%b9%80%e0%b8%9b%e0%b8%b4%e0%b8%94%e0%b9%82%e0%b8%a5%e0%b8%81-ai-%e0%b9%82%e0%b8%a5%e0%b8%88%e0%b8%b4%e0%b8%aa%e0%b8%95%e0%b8%b4%e0%b8%81%e0%b8%aa%e0%b9%8c%e0%b8%ad%e0%b8%b1%e0%b8%88%e0%b8%89/"
+    }
+  ],
+  "offline_events": [
+    {
+      "event_name": "One Stop Open House 2026 / ONES TOP OPEN HOUSE 2026 (Open Mind, Open Future) จัดโดย อว.",
+      "venue": "ศูนย์การประชุมแห่งชาติสิริกิติ์",
+      "province": "กรุงเทพฯ",
+      "date": "2026-03-06",
+      "event_type": "edu_fair",
+      "faculty": "all",
+      "summary": "บูธ SPU ออกแบบโดยนักศึกษา SIM Agency SPU; โชว์ผลงานคณะสารสนเทศ ธุรกิจ ดิจิทัลมีเดีย วิศวะ โลจิสติกส์ การสร้างเจ้าของธุรกิจ พร้อมแนะแนว (ถึง 8 มี.ค. 2569)",
+      "source_url": "https://www.spu.ac.th/newsupdate/sim-agency-spu-%E0%B8%A3%E0%B9%88%E0%B8%A7%E0%B8%A1%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%AA%E0%B8%A3%E0%B8%A3%E0%B8%84%E0%B9%8C%E0%B8%AD%E0%B8%AD%E0%B8%81%E0%B9%81%E0%B8%9A%E0%B8%9A/"
+    }
+  ],
+  "faculty_map": [
+    {
+      "competitor_faculty": "คณะดิจิทัลมีเดีย",
+      "spu_faculty": "digital_media"
+    },
+    {
+      "competitor_faculty": "คณะนิเทศศาสตร์",
+      "spu_faculty": "digital_media"
+    },
+    {
+      "competitor_faculty": "คณะเทคโนโลยีสารสนเทศ",
+      "spu_faculty": "it"
+    },
+    {
+      "competitor_faculty": "วิทยาลัยการบิน การท่องเที่ยวและการบริการ",
+      "spu_faculty": "tourism"
+    },
+    {
+      "competitor_faculty": "คณะการออกแบบและสถาปัตยกรรมศาสตร์",
+      "spu_faculty": "architecture"
+    },
+    {
+      "competitor_faculty": "คณะวิศวกรรมศาสตร์",
+      "spu_faculty": "engineering"
+    },
+    {
+      "competitor_faculty": "คณะศิลปศาสตร์",
+      "spu_faculty": "liberal_arts"
+    },
+    {
+      "competitor_faculty": "คณะบริหารธุรกิจ / คณะบัญชี / คณะการสร้างเจ้าของธุรกิจ / วิทยาลัยโลจิสติกส์",
+      "spu_faculty": "business"
+    }
+  ],
+  "notes": "No school roadshows or other education-fair booths found for May-Nov 2026 (only One Stop Open House Mar 2026). No faculty open house/camp for IT, architecture, tourism, digital media found for 2026 (SPUCA 2025 only). Quota deadline conflicts: Oct 31 (IT faculty news, 6 Oct) vs Nov 30 (quota70-3 page, via dekport). Portfolio value conflicts 25,000 vs 40,000. Official SPU TCAS-round and portfolio deadlines mostly unpublished. x.com post dates for DEK70 quota are approximate (id-derived, ~May 2026). admission.spu.ac.th unreachable. Facebook/IG/TikTok not directly accessible. Law and graduate items included as reference only."
+}

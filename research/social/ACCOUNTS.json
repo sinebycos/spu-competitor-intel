@@ -1,0 +1,25 @@
+{
+  "_note": "Official accounts monitored each week. Verify a handle before adding it: TikTok @bangkokuniversity is an unrelated fan account. null = no official account found yet.",
+  "facebook": {
+    "spu": "https://www.facebook.com/SPUsripatumuniversity",
+    "utcc": "https://www.facebook.com/dekutcc",
+    "dpu": "https://www.facebook.com/dpu.ac.th",
+    "bu": "https://www.facebook.com/bangkokuniversity",
+    "rsu": "https://www.facebook.com/rangsituniversity"
+  },
+  "instagram": {
+    "spu": "sripatum_spu",
+    "utcc": "dekutcc",
+    "dpu": "dpu_university",
+    "bu": "bangkok_bu",
+    "rsu": "rangsitU"
+  },
+  "tiktok": {
+    "spu": "sripatum.spu",
+    "utcc": "dekutcc",
+    "dpu": null,
+    "bu": null,
+    "rsu": "rangsituniversity"
+  },
+  "posts_per_account": 15
+}

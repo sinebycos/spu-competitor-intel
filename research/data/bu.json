@@ -1,0 +1,606 @@
+{
+  "university": "bu",
+  "collected_at": "2026-11-06",
+  "activities": [
+    {
+      "title": "BU Open House 2026 : LEAD THE NEXT WORLD",
+      "type": "open_house",
+      "faculty": "all",
+      "start_date": "2026-09-04",
+      "end_date": "2026-09-05",
+      "location": null,
+      "target": "นักเรียนมัธยมศึกษา",
+      "summary": "ให้น้อง ๆ ลองบทบาท Techpreneur, Hacker, Creator, Marketer, Investor, Engineer ผ่าน Hands-on workshop จากหลายคณะ พร้อมเวทีแข่งขันระดับประเทศและคอนเสิร์ตปิดงาน",
+      "source_url": "https://www.bu.ac.th/th/featured-stories/2573"
+    },
+    {
+      "title": "Student Techpreneur BU x DEPA",
+      "type": "competition",
+      "faculty": "business",
+      "start_date": null,
+      "end_date": null,
+      "location": null,
+      "target": "นักเรียนมัธยมจาก 40 โรงเรียนทั่วประเทศ",
+      "summary": "แข่งพัฒนาไอเดียธุรกิจ/นวัตกรรมร่วมกับ DEPA มีที่ปรึกษาจากคณะ ฝึกพิตช์ และรอบชิง Final Pitching ระดับประเทศ",
+      "source_url": "https://www.thaipost.net/public-relations-news/1064969/"
+    },
+    {
+      "title": "Chance for Change (ประกวดศิลปะ)",
+      "type": "competition",
+      "faculty": "all",
+      "start_date": "2026-09-04",
+      "end_date": "2026-09-05",
+      "location": "Art Gallery มหาวิทยาลัยกรุงเทพ",
+      "target": "นักเรียนมัธยม 30 โรงเรียน",
+      "summary": "ประกวดศิลปะในงาน Open House ผลงานรอบตัดสินจัดแสดงในหอศิลป์มหาวิทยาลัย",
+      "source_url": "https://www.bu.ac.th/th/featured-stories/2573"
+    },
+    {
+      "title": "White Hat Hacker Workshop (AI & Cybersecurity)",
+      "type": "workshop",
+      "faculty": "it",
+      "start_date": "2026-09-04",
+      "end_date": "2026-09-05",
+      "location": null,
+      "target": "นักเรียนมัธยม",
+      "summary": "เวิร์กชอปให้ลองเป็นแฮกเกอร์สายขาว ค้นหาและแก้ช่องโหว่ในระบบจำลอง",
+      "source_url": "https://www.bu.ac.th/th/featured-stories/2573"
+    },
+    {
+      "title": "Engineering Innovation Showcase (SMA robotic camera, Humanoid & Dog Robot, Drone/Anti-drone)",
+      "type": "student_activity",
+      "faculty": "engineering",
+      "start_date": "2026-09-04",
+      "end_date": "2026-09-05",
+      "location": null,
+      "target": "นักเรียนมัธยม",
+      "summary": "โชว์หุ่นยนต์ ฮิวมานอยด์ หุ่นยนต์สุนัข และโดรน/แอนตี้โดรนในงาน Open House",
+      "source_url": "https://www.bu.ac.th/th/featured-stories/2573"
+    },
+    {
+      "title": "Digital Media/Communication Arts Hands-on workshops (ถ่ายทำ คอนเทนต์ แสง เสียง แคมเปญเอเจนซี่)",
+      "type": "workshop",
+      "faculty": "digital_media",
+      "start_date": "2026-09-04",
+      "end_date": "2026-09-05",
+      "location": null,
+      "target": "นักเรียนมัธยม",
+      "summary": "เวิร์กชอปจากคณะดิจิทัลมีเดียและฟิล์มอาร์ตส์ และคณะนิเทศศาสตร์ ลงมือทำจริงแบบเอเจนซี่",
+      "source_url": "https://www.bu.ac.th/th/featured-stories/2573"
+    },
+    {
+      "title": "Business sessions: Content & Channel Challenge, AI China Marketing, TikTok Shop alumni talk, Power BI, Stock trading game",
+      "type": "workshop",
+      "faculty": "business",
+      "start_date": "2026-09-04",
+      "end_date": "2026-09-05",
+      "location": null,
+      "target": "นักเรียนมัธยม",
+      "summary": "กิจกรรมสายธุรกิจ การตลาด ข้อมูล และการลงทุนในงาน Open House",
+      "source_url": "https://www.bu.ac.th/th/featured-stories/2573"
+    },
+    {
+      "title": "BU Cyber Fortress Challenge & Career Expo (Hackathon + Mini CTF)",
+      "type": "competition",
+      "faculty": "it",
+      "start_date": "2026-03-05",
+      "end_date": null,
+      "location": "มหาวิทยาลัยกรุงเทพ",
+      "target": "นักศึกษา/ผู้สนใจ cybersecurity",
+      "summary": "แลกเปลี่ยนความรู้กับ สกมช. NT G-Able EC-Council, แข่ง Hackathon AI Cybersecurity และ Mini CTF พร้อม Career Expo (วันที่คือวันข่าว ไม่ใช่วันจัดงานที่ยืนยัน)",
+      "source_url": "https://www.naewna.com/local/950885"
+    },
+    {
+      "title": "Hotel DNA: The Next Talents (BU x IHG Thailand)",
+      "type": "student_activity",
+      "faculty": "tourism",
+      "start_date": "2026-11-04",
+      "end_date": null,
+      "location": null,
+      "target": "นักศึกษาปี 1",
+      "summary": "กิจกรรมแนะแนวอาชีพโรงแรมกับ HR ของ IHG Thailand และโอกาสฝึกงาน ใช้เป็นเนื้อหาโปรโมตหลักสูตร (วันที่คือวันที่ลงข่าว)",
+      "source_url": "https://www.bu.ac.th/th/featured-stories/3031"
+    },
+    {
+      "title": "Campus visit / virtual tour (BU Visit Campus)",
+      "type": "other",
+      "faculty": "all",
+      "start_date": null,
+      "end_date": null,
+      "location": "มหาวิทยาลัยกรุงเทพ รังสิต",
+      "target": "ผู้สนใจสมัครเรียน",
+      "summary": "มีเมนู BU Visit Campus และ virtual tour บนเว็บไซต์ทางการ",
+      "source_url": "https://www.bu.ac.th/th/admission-info"
+    },
+    {
+      "title": "BU เจริญเฟส: คอนเสิร์ตฟรีที่นักศึกษาสาขาการผลิตอีเว้นท์จัดเอง ชวน DEK70",
+      "type": "student_activity",
+      "faculty": "digital_media",
+      "start_date": "2026-11-05",
+      "end_date": "2026-11-07",
+      "location": "ลานวงกลม คณะนิเทศศาสตร์ ม.กรุงเทพ",
+      "target": "นักเรียนมัธยม DEK70",
+      "summary": "คอนเสิร์ตเข้าชมฟรีพร้อมศิลปิน จัดโดยนักศึกษาจากรายวิชา Concert and Music Festival ใช้เป็นประสบการณ์ให้ DEK70 เห็นการเรียนจริง (โพสต์ระบุว่ามีต่อเนื่องตลอดเดือน พ.ย.)",
+      "source_url": "https://www.instagram.com/p/DfHB7m6mZir/"
+    }
+  ],
+  "scholarships": [
+    {
+      "name": "ทุนประกายเพชร (Prakaipetch)",
+      "value_text": "ยกเว้นค่าหน่วยกิตและค่าธรรมเนียม 100% + เบี้ยเลี้ยง 12,000 บาท/เดือน + หอพัก DoBeDo 1 ปี",
+      "value_pct": 100,
+      "conditions": "สัญชาติไทย ม.6 GPA 5 เทอม >= 3.50 (หรือ GED >= 700) และมีรางวัล/ผลงานที่เกี่ยวข้อง ใช้ได้ทุกหลักสูตรยกเว้นสถาปัตย์ IT วิศวะ Intl BBA Intl CS",
+      "tcas_round": "unknown",
+      "faculty": "all",
+      "valid_from": "2026-11-02",
+      "valid_to": "2027-01-31",
+      "source_url": "https://www.bu.ac.th/th/scholarship/92/Prakaipetch"
+    },
+    {
+      "name": "Super Tech Talent",
+      "value_text": "ทุน 100% ค่าหน่วยกิต/ธรรมเนียม + 12,000 บาท/เดือน + หอพักฟรี 1 ปี",
+      "value_pct": 100,
+      "conditions": "สัญชาติไทย ม.ปลาย/ปวช. GPA 5 เทอม >= 2.75 หรือผลงานอื่น พอร์ต 10 หน้า มีโปรเจกต์เทคโนโลยี",
+      "tcas_round": "unknown",
+      "faculty": "it",
+      "valid_from": "2026-11-02",
+      "valid_to": "2027-01-15",
+      "source_url": "https://www.bu.ac.th/th/scholarship/115"
+    },
+    {
+      "name": "Super Tech Talent (UAV)",
+      "value_text": "เรียนฟรีตามที่เว็บระบุ (ไม่ยืนยันรายละเอียดเบี้ยเลี้ยง)",
+      "value_pct": 100,
+      "conditions": "สนใจสร้างและเขียนโค้ดโดรน",
+      "tcas_round": "unknown",
+      "faculty": "engineering",
+      "valid_from": "2026-11-02",
+      "valid_to": "2027-01-15",
+      "source_url": "https://www.bu.ac.th/th/scholarship/127"
+    },
+    {
+      "name": "Tech Talent",
+      "value_text": "ไม่ระบุในหน้าที่ตรวจ",
+      "value_pct": null,
+      "conditions": "มีไอเดีย/โปรเจกต์เทคโนโลยี หรือเคยร่วมโปรแกรมพอร์ต",
+      "tcas_round": "unknown",
+      "faculty": "it",
+      "valid_from": null,
+      "valid_to": null,
+      "source_url": "https://www.bu.ac.th/th/scholarship/116"
+    },
+    {
+      "name": "Tech Talent (UAV)",
+      "value_text": "ไม่ระบุ",
+      "value_pct": null,
+      "conditions": "สนใจเทคโนโลยี UAV",
+      "tcas_round": "unknown",
+      "faculty": "engineering",
+      "valid_from": null,
+      "valid_to": null,
+      "source_url": "https://www.bu.ac.th/th/scholarship/126"
+    },
+    {
+      "name": "ทุนความเป็นเลิศทางวิชาชีพ (UAV)",
+      "value_text": "ไม่ระบุ",
+      "value_pct": null,
+      "conditions": "สนใจ UAV มุ่งนวัตกรรมและการแข่งขันอุตสาหกรรม",
+      "tcas_round": "unknown",
+      "faculty": "engineering",
+      "valid_from": null,
+      "valid_to": null,
+      "source_url": "https://www.bu.ac.th/th/scholarship/128"
+    },
+    {
+      "name": "Super Arch Talent",
+      "value_text": "ไม่ระบุ",
+      "value_pct": null,
+      "conditions": "พรสวรรค์ด้านการออกแบบและความคิดสร้างสรรค์",
+      "tcas_round": "unknown",
+      "faculty": "architecture",
+      "valid_from": null,
+      "valid_to": null,
+      "source_url": "https://www.bu.ac.th/th/scholarship/111"
+    },
+    {
+      "name": "ARCH Talent",
+      "value_text": "ไม่ระบุ",
+      "value_pct": null,
+      "conditions": "พรสวรรค์ด้านการออกแบบ",
+      "tcas_round": "unknown",
+      "faculty": "architecture",
+      "valid_from": null,
+      "valid_to": null,
+      "source_url": "https://www.bu.ac.th/th/scholarship/112"
+    },
+    {
+      "name": "Super BBA Talent",
+      "value_text": "ไม่ระบุ",
+      "value_pct": null,
+      "conditions": "ผลการเรียนดี ภาวะผู้นำ global mindset (ไทยและต่างชาติ)",
+      "tcas_round": "unknown",
+      "faculty": "business",
+      "valid_from": null,
+      "valid_to": null,
+      "source_url": "https://www.bu.ac.th/th/scholarship/113"
+    },
+    {
+      "name": "Digital Gen Z (national influencer)",
+      "value_text": "ทุน 100% หรือ 50% ของค่าหน่วยกิตและค่าธรรมเนียม",
+      "value_pct": 100,
+      "conditions": "GPA >= 2.00 ผู้ติดตาม 1 ล้านขึ้นไป (YouTuber/TikToker/Game Caster) หรือสร้างคอนเทนต์โปรโมตกิจกรรมมหาวิทยาลัยได้ ทุกหลักสูตร",
+      "tcas_round": "unknown",
+      "faculty": "all",
+      "valid_from": "2026-11-02",
+      "valid_to": "2027-03-20",
+      "source_url": "https://www.bu.ac.th/th/scholarship/105"
+    },
+    {
+      "name": "Digital Gen Z (regional influencer)",
+      "value_text": "ไม่ระบุ",
+      "value_pct": null,
+      "conditions": "พรสวรรค์ด้านอาชีพสร้างสรรค์ดิจิทัลระดับภูมิภาค",
+      "tcas_round": "unknown",
+      "faculty": "digital_media",
+      "valid_from": null,
+      "valid_to": null,
+      "source_url": "https://www.bu.ac.th/th/scholarship/114"
+    },
+    {
+      "name": "BUDC DNA",
+      "value_text": "เรียนฟรี 4 ปี (ตามที่เว็บระบุ)",
+      "value_pct": 100,
+      "conditions": "นักเรียน ม.ปลาย ที่หลงใหลภาพยนตร์ แอนิเมชัน ดนตรี VFX virtual production",
+      "tcas_round": "unknown",
+      "faculty": "digital_media",
+      "valid_from": null,
+      "valid_to": null,
+      "source_url": "https://www.bu.ac.th/th/scholarship/117"
+    },
+    {
+      "name": "BUCA Talent",
+      "value_text": "ไม่ระบุ",
+      "value_pct": null,
+      "conditions": "สนใจนิเทศศาสตร์ ทั้งสายวิทย์และศิลป์",
+      "tcas_round": "unknown",
+      "faculty": "digital_media",
+      "valid_from": null,
+      "valid_to": null,
+      "source_url": "https://www.bu.ac.th/th/scholarship/94"
+    },
+    {
+      "name": "ทุนความคิดสร้างสรรค์ (Creativity)",
+      "value_text": "ไม่ระบุ",
+      "value_pct": null,
+      "conditions": "ผลงานสร้างสรรค์ในระดับดี เข้าร่วมโปรแกรมพัฒนาโครงการ",
+      "tcas_round": "unknown",
+      "faculty": "all",
+      "valid_from": null,
+      "valid_to": null,
+      "source_url": "https://www.bu.ac.th/th/scholarship/96"
+    },
+    {
+      "name": "ทุนผู้นำทางสังคมและสิ่งแวดล้อม",
+      "value_text": "ไม่ระบุ",
+      "value_pct": null,
+      "conditions": "เป็นผู้นำชุมชน/สิ่งแวดล้อม จิตอาสา มีการยอมรับระดับท้องถิ่น-สากล",
+      "tcas_round": "unknown",
+      "faculty": "all",
+      "valid_from": null,
+      "valid_to": null,
+      "source_url": "https://www.bu.ac.th/th/scholarship/100"
+    },
+    {
+      "name": "ทุนความเป็นเลิศทางวิชาชีพ (Professional Excellence)",
+      "value_text": "ไม่ระบุ",
+      "value_pct": null,
+      "conditions": "ผลงานโดดเด่นในสาขาที่มหาวิทยาลัยเน้น",
+      "tcas_round": "unknown",
+      "faculty": "all",
+      "valid_from": null,
+      "valid_to": null,
+      "source_url": "https://www.bu.ac.th/th/scholarship/93"
+    },
+    {
+      "name": "ทุนความสามารถพิเศษระดับสากล",
+      "value_text": "ไม่ระบุ",
+      "value_pct": null,
+      "conditions": "ทักษะภาษาต่างประเทศและกิจกรรมระดับนานาชาติ",
+      "tcas_round": "unknown",
+      "faculty": "liberal_arts",
+      "valid_from": null,
+      "valid_to": null,
+      "source_url": "https://www.bu.ac.th/th/scholarship/95"
+    },
+    {
+      "name": "Global Explorer",
+      "value_text": "ไม่ระบุ",
+      "value_pct": null,
+      "conditions": "เป็นตัวแทนมหาวิทยาลัยแลกเปลี่ยน นำกิจกรรมพัฒนาภาษาอังกฤษ",
+      "tcas_round": "unknown",
+      "faculty": "liberal_arts",
+      "valid_from": null,
+      "valid_to": null,
+      "source_url": "https://www.bu.ac.th/th/scholarship/99"
+    },
+    {
+      "name": "ทุนนักกีฬาดีเด่น",
+      "value_text": "ไม่ระบุ",
+      "value_pct": null,
+      "conditions": "ผลงานกีฬาระดับชาติ/นานาชาติ (มีรุ่น GPA 3.00+)",
+      "tcas_round": "unknown",
+      "faculty": "all",
+      "valid_from": null,
+      "valid_to": null,
+      "source_url": "https://www.bu.ac.th/th/scholarship/101"
+    },
+    {
+      "name": "E-sports and New Sports Talent",
+      "value_text": "ไม่ระบุ",
+      "value_pct": null,
+      "conditions": "ความสามารถด้านกีฬา/อีสปอร์ต",
+      "tcas_round": "unknown",
+      "faculty": "all",
+      "valid_from": null,
+      "valid_to": null,
+      "source_url": "https://www.bu.ac.th/th/scholarship/104"
+    }
+  ],
+  "pr_messages": [
+    {
+      "channel": "website",
+      "headline": "LEAD THE NEXT WORLD ก้าวนำโลกอนาคต ไปกับมหาวิทยาลัยกรุงเทพ",
+      "keywords": [
+        "LEAD THE NEXT WORLD",
+        "ก้าวนำโลกอนาคต",
+        "Open House 2026"
+      ],
+      "theme": "career",
+      "faculty": "all",
+      "date": "2026-09-07",
+      "source_url": "https://www.bu.ac.th/th/featured-stories/2573"
+    },
+    {
+      "channel": "website",
+      "headline": "มหาวิทยาลัยสร้างสรรค์",
+      "keywords": [
+        "สร้างสรรค์",
+        "Creative University"
+      ],
+      "theme": "creative",
+      "faculty": "all",
+      "date": null,
+      "source_url": "https://www.bu.ac.th"
+    },
+    {
+      "channel": "website",
+      "headline": "ก้าวเข้าสู่โลกแห่งการเรียนรู้ไปกับมหาวิทยาลัยกรุงเทพ",
+      "keywords": [
+        "โลกแห่งการเรียนรู้"
+      ],
+      "theme": "other",
+      "faculty": "all",
+      "date": null,
+      "source_url": "https://www.bu.ac.th"
+    },
+    {
+      "channel": "news",
+      "headline": "BU Open House 2026 ก้าวนำโลกอนาคตไปกับมหาวิทยาลัยกรุงเทพ",
+      "keywords": [
+        "Hands-on",
+        "ลองเป็น",
+        "Techpreneur",
+        "Hacker"
+      ],
+      "theme": "tech_ai",
+      "faculty": "all",
+      "date": "2026-09-07",
+      "source_url": "https://www.thaipost.net/public-relations-news/1064969/"
+    },
+    {
+      "channel": "news",
+      "headline": "ม.กรุงเทพ จัดงาน BU Cyber Fortress Challenge & Career Expo ค้นหา นักรบไซเบอร์ รุ่นใหม่ สู่อุตสาหกรรมดิจิทัล",
+      "keywords": [
+        "นักรบไซเบอร์",
+        "Cybersecurity",
+        "Career Expo"
+      ],
+      "theme": "industry_partner",
+      "faculty": "it",
+      "date": "2026-03-05",
+      "source_url": "https://www.naewna.com/local/950885"
+    },
+    {
+      "channel": "website",
+      "headline": "BU Open House 2025 New Generation Thinkers - From Idea to I Do",
+      "keywords": [
+        "New Generation Thinkers",
+        "150 กิจกรรม",
+        "Certificate",
+        "พอร์ต"
+      ],
+      "theme": "career",
+      "faculty": "all",
+      "date": "2025-08-29",
+      "source_url": "https://www.bu.ac.th/en/busem/featured-stories/2021"
+    },
+    {
+      "channel": "website",
+      "headline": "เรียนจบไว 3 ปี พร้อม 3 Tracks สู่โลกธุรกิจสายการบิน",
+      "keywords": [
+        "เรียนจบไว 3 ปี",
+        "สายการบิน",
+        "3 Tracks"
+      ],
+      "theme": "career",
+      "faculty": "tourism",
+      "date": "2026-10-07",
+      "source_url": "https://www.bu.ac.th/th/featured-stories/2636"
+    },
+    {
+      "channel": "website",
+      "headline": "Nobody Asks What You Studied They Ask What You Can Do",
+      "keywords": [
+        "International Program",
+        "curriculum",
+        "practical"
+      ],
+      "theme": "international",
+      "faculty": "all",
+      "date": "2026-10-28",
+      "source_url": "https://www.bu.ac.th/th/featured-stories/3023"
+    },
+    {
+      "channel": "website",
+      "headline": "Business Is Not One Career It Is the Foundation for All of Them",
+      "keywords": [
+        "BBA",
+        "foundation",
+        "careers"
+      ],
+      "theme": "career",
+      "faculty": "business",
+      "date": "2026-10-02",
+      "source_url": "https://www.bu.ac.th/th/featured-stories/2626"
+    },
+    {
+      "channel": "website",
+      "headline": "Why Thailand? Not Just a Great Place to Live The Best Place to Launch",
+      "keywords": [
+        "Study in Thailand",
+        "international"
+      ],
+      "theme": "international",
+      "faculty": "all",
+      "date": "2026-09-23",
+      "source_url": "https://www.bu.ac.th/th/featured-stories/2605"
+    },
+    {
+      "channel": "website",
+      "headline": "BU จับมือ IHG Thailand จัด Hotel DNA: The Next Talents เปิดเส้นทางอาชีพสู่อุตสาหกรรมโรงแรม",
+      "keywords": [
+        "Hotel DNA",
+        "IHG",
+        "ฝึกงาน"
+      ],
+      "theme": "industry_partner",
+      "faculty": "tourism",
+      "date": "2026-11-04",
+      "source_url": "https://www.bu.ac.th/th/featured-stories/3031"
+    },
+    {
+      "channel": "website",
+      "headline": "IMI x FUJIFILM Learning Beyond the Classroom with FUJIFILM Thailand",
+      "keywords": [
+        "Learning Beyond the Classroom",
+        "FUJIFILM"
+      ],
+      "theme": "industry_partner",
+      "faculty": "digital_media",
+      "date": "2026-10-02",
+      "source_url": "https://www.bu.ac.th/th/featured-stories/2627"
+    },
+    {
+      "channel": "website",
+      "headline": "เด็กเชฟ ลงสนาม 2 เวที คว้าแชมป์สุดยอดเชฟชลบุรี ซีซั่น 2 พร้อมอันดับ 3 DIT x Iron Chef",
+      "keywords": [
+        "เชฟ",
+        "แชมป์",
+        "รางวัล"
+      ],
+      "theme": "career",
+      "faculty": "tourism",
+      "date": "2026-10-28",
+      "source_url": "https://www.bu.ac.th/th/featured-stories/3025"
+    },
+    {
+      "channel": "website",
+      "headline": "เล่าเรื่องโดนใจ ครีเอทีฟโดดเด่น นักศึกษา BUCA คว้า 2 รางวัลเวทีประชาธิปไตยสีขาว",
+      "keywords": [
+        "BUCA",
+        "รางวัล",
+        "ครีเอทีฟ"
+      ],
+      "theme": "creative",
+      "faculty": "digital_media",
+      "date": "2026-10-14",
+      "source_url": "https://www.bu.ac.th/th/featured-stories/2646"
+    },
+    {
+      "channel": "website",
+      "headline": "ทุนประกายเพชร: ทุน 100% + เบี้ยเลี้ยง 12,000 บาท/เดือน + หอพัก DoBeDo",
+      "keywords": [
+        "ทุน 100%",
+        "DoBeDo",
+        "เบี้ยเลี้ยง"
+      ],
+      "theme": "price",
+      "faculty": "all",
+      "date": "2026-07-27",
+      "source_url": "https://www.bu.ac.th/th/scholarship/92/Prakaipetch"
+    },
+    {
+      "channel": "instagram",
+      "headline": "BUDC คณะดิจิทัลมีเดียและศิลปะภาพยนตร์ อันดับ 1 ของไทย",
+      "keywords": [
+        "BUDC",
+        "Virtual Production",
+        "Animation",
+        "VFX",
+        "อันดับ 1"
+      ],
+      "theme": "creative",
+      "faculty": "digital_media",
+      "date": "2026-10-30",
+      "source_url": "https://www.instagram.com/p/DfG8VEQqzKQ/"
+    }
+  ],
+  "offline_events": [],
+  "faculty_map": [
+    {
+      "competitor_faculty": "คณะเทคโนโลยีสารสนเทศและนวัตกรรม",
+      "spu_faculty": "it"
+    },
+    {
+      "competitor_faculty": "คณะวิศวกรรมศาสตร์",
+      "spu_faculty": "engineering"
+    },
+    {
+      "competitor_faculty": "คณะสถาปัตยกรรมศาสตร์",
+      "spu_faculty": "architecture"
+    },
+    {
+      "competitor_faculty": "คณะนิเทศศาสตร์",
+      "spu_faculty": "digital_media"
+    },
+    {
+      "competitor_faculty": "คณะดิจิทัลมีเดียและฟิล์มอาร์ตส์",
+      "spu_faculty": "digital_media"
+    },
+    {
+      "competitor_faculty": "คณะบริหารธุรกิจ",
+      "spu_faculty": "business"
+    },
+    {
+      "competitor_faculty": "คณะผู้ประกอบการและการจัดการธุรกิจ",
+      "spu_faculty": "business"
+    },
+    {
+      "competitor_faculty": "คณะบัญชี",
+      "spu_faculty": "business"
+    },
+    {
+      "competitor_faculty": "คณะเศรษฐศาสตร์และการลงทุน",
+      "spu_faculty": "business"
+    },
+    {
+      "competitor_faculty": "สถาบันภาษา / วิทยาลัยนานาชาติ",
+      "spu_faculty": "liberal_arts"
+    },
+    {
+      "competitor_faculty": "หลักสูตรการบิน/โรงแรม/ศิลปะการประกอบอาหาร",
+      "spu_faculty": "tourism"
+    }
+  ],
+  "notes": "No off-campus education fair/roadshow booths found (searches did not confirm BU at Dek-D fairs). Scholarship pages give TCAS round not stated (own BU application, Nov 2026 - Jan/Mar 2027); values only verified for Prakaipetch, Super Tech Talent, Digital Gen Z, BUDC DNA. BU Quota / BU Connection / DEK70 promo pages were linked but not read. Facebook/IG/TikTok not reachable via search; hashtags not found. Cyber Fortress date is the news date (2026-03-05), actual event date unconfirmed. Open House 2026 venue not stated (presumably Rangsit campus)."
+}

@@ -1,0 +1,377 @@
+{
+  "university": "rsu",
+  "collected_at": "2026-11-06",
+  "activities": [
+    {
+      "title": "RSU Open House 2026 \"7 สิ่งมหัศจรรย์ ม.รังสิต\" - ก้าวแรก… สู่เส้นทางที่ใช่",
+      "type": "open_house",
+      "faculty": "all",
+      "start_date": "2026-08-27",
+      "end_date": "2026-08-29",
+      "location": "มหาวิทยาลัยรังสิต ต.หลักหก อ.เมือง จ.ปทุมธานี (ลงทะเบียนเต็นท์ข้างตึก 1)",
+      "target": "ม.ปลาย / dek70",
+      "summary": "งาน Open House 3 วัน แบ่งกิจกรรมตามกลุ่ม: การแพทย์และสุขภาพ, เศรษฐกิจและธุรกิจ, วิศวกรรมและเทคโนโลยี, ศิลปะและการออกแบบ, มนุษยศาสตร์ฯ, นานาชาติ, นิเทศ (อาคาร 15) ลงทะเบียนผ่าน LINE OA/เว็บ เข้าฟรี แจกกระเป๋าผ้า หนังสือแนวทางอาชีพ คูปองอาหาร 60 บาท เกียรติบัตรออนไลน์ (สแกน QR คณะ >=2 จุด) และมีรถรับส่งจากสถานีหลักหก",
+      "source_url": "https://openhouse.rsu.ac.th"
+    },
+    {
+      "title": "RSU Open House 2026 (หน้า LINE OA @openhouse.rsu)",
+      "type": "open_house",
+      "faculty": "all",
+      "start_date": "2026-08-27",
+      "end_date": "2026-08-29",
+      "location": "มหาวิทยาลัยรังสิต",
+      "target": "ม.ปลาย",
+      "summary": "LINE Official Account แยกสำหรับ Open House (~88,000 friends) เน้นลองเรียนจริง เข้าห้อง Lab จริง ผ่าน Workshop และกิจกรรมจากคณะ พร้อมคลังบรรยากาศ Open House ปี 2022-2025",
+      "source_url": "https://page.line.me/628qxery"
+    },
+    {
+      "title": "RSU Open House 2025 (ร่วมกับ MUIDS เยี่ยมชม)",
+      "type": "open_house",
+      "faculty": "all",
+      "start_date": "2025-11-07",
+      "end_date": "2025-11-07",
+      "location": "มหาวิทยาลัยรังสิต",
+      "target": "ม.ปลาย",
+      "summary": "Open House ปี 2025 มี workshop จากวิทยาลัยแพทยศาสตร์ คณะสถาปัตยกรรมศาสตร์ สายวิทย์สุขภาพ และศิลปะ/ออกแบบ (ยังเป็นรอบก่อนหน้า ใช้เทียบรูปแบบ)",
+      "source_url": "https://muids.mahidol.ac.th/?p=17636"
+    },
+    {
+      "title": "ทุนความสามารถพิเศษด้านครีเอเตอร์และศิลปิน ปีการศึกษา 2569 (รับสมัคร)",
+      "type": "admission_event",
+      "faculty": "all",
+      "start_date": null,
+      "end_date": "2026-04-09",
+      "location": "ออนไลน์/ติดต่อ 02-791-5585",
+      "target": "ม.6 / ผู้สร้างคอนเทนต์ YouTuber",
+      "summary": "เปิดรับสมัครทุนสำหรับคอนเทนต์ครีเอเตอร์และศิลปิน ปิดรับ 9 เม.ย. 2569",
+      "source_url": "https://www.eduzones.com/2026/01/29/rsu-41/"
+    },
+    {
+      "title": "Young Grow ได้อีก Contest: นวัตกรรมดี แข่งทำคลิปก็แค่เรื่องสิวสิว (พิธีปิดและประกาศผล)",
+      "type": "competition",
+      "faculty": "business",
+      "start_date": "2026-04-03",
+      "end_date": "2026-04-03",
+      "location": "ศาลาดนตรีสุริยเทพ ม.รังสิต",
+      "target": "นักศึกษามหาวิทยาลัย (145+ ทีม จาก 40 สถาบัน)",
+      "summary": "ประกวดทำคลิปการตลาดดิจิทัล จัดโดย สสอท. + DragKooler + Erasmus+ ม.รังสิตเป็นเจ้าภาพสถานที่ รางวัลรวมกว่า 2 แสนบาท (ไม่ใช่กิจกรรมสำหรับ ม.ปลายโดยตรง)",
+      "source_url": "https://www.mitihoon.com/2026/04/07/631632/"
+    },
+    {
+      "title": "Workshop รอบคัดเลือกทุน Future Change Agent (ครบรอบ 40 ปี) - รอบปี 2025",
+      "type": "workshop",
+      "faculty": "all",
+      "start_date": "2025-03-21",
+      "end_date": "2025-03-22",
+      "location": "ม.รังสิต",
+      "target": "ม.6 (ผู้ผ่านการคัดเลือก ~120 คน)",
+      "summary": "ผู้สมัครทุนเต็มจำนวน 40 ทุน ต้องเข้า workshop ประเมิน 5 สมรรถนะ (ผู้นำ ความคิดสร้างสรรค์ ผู้ประกอบการ ฯลฯ) ใช้เป็นกลไกดึงนักเรียนศักยภาพสูง",
+      "source_url": "https://www.eduzones.com/2025/01/16/rsu-37/"
+    },
+    {
+      "title": "ความร่วมมือไอที ม.รังสิต x สมาคมส่งเสริมผู้ลงทุนไทย (หลักสูตรวางแผนการเงินด้วย AI)",
+      "type": "other",
+      "faculty": "it",
+      "start_date": "2026-08-01",
+      "end_date": "2026-08-15",
+      "location": null,
+      "target": "ทั่วไป / นักศึกษา",
+      "summary": "วิทยาลัยเทคโนโลยีนวัตกรรมดิจิทัลลงนามความร่วมมือ พัฒนาวิชาการวางแผนการเงินด้วย AI และอบรมนักลงทุนอาสา 3 เสาร์ (1, 8, 15 ส.ค.)",
+      "source_url": "https://www.naewna.com/business/980792"
+    },
+    {
+      "title": "RSU Gen Talk X วิทยาลัยการท่องเที่ยวและอุตสาหกรรมการบริการ (ไลฟ์คุยกับรุ่นพี่)",
+      "type": "webinar",
+      "faculty": "tourism",
+      "start_date": "2026-10-22",
+      "end_date": "2026-10-22",
+      "location": "TikTok Live @rangsituniversity",
+      "target": "DEK70",
+      "summary": "ซีรีส์ไลฟ์รายคณะ 11.30–12.30 น. ให้รุ่นพี่ตอบคำถาม DEK70 แบบเรียล ๆ ควบคู่กับคลิป Recap คณะ",
+      "source_url": "https://www.tiktok.com/@rangsituniversity/video/7699091083862510868"
+    },
+    {
+      "title": "RSU Gen Talk X ศิลปศาสตร์ (ไลฟ์คุยกับรุ่นพี่)",
+      "type": "webinar",
+      "faculty": "liberal_arts",
+      "start_date": "2026-10-28",
+      "end_date": "2026-10-28",
+      "location": "TikTok Live @rangsituniversity",
+      "target": "DEK70",
+      "summary": "ซีรีส์ไลฟ์รายคณะ 11.30–12.30 น. ให้รุ่นพี่ตอบคำถาม DEK70 แบบเรียล ๆ ควบคู่กับคลิป Recap คณะ",
+      "source_url": "https://www.tiktok.com/@rangsituniversity/video/7701201072966094101"
+    },
+    {
+      "title": "RSU Gen Talk X นิเทศศาสตร์ (ไลฟ์คุยกับรุ่นพี่)",
+      "type": "webinar",
+      "faculty": "digital_media",
+      "start_date": "2026-10-30",
+      "end_date": "2026-10-30",
+      "location": "TikTok Live @rangsituniversity",
+      "target": "DEK70",
+      "summary": "ซีรีส์ไลฟ์รายคณะ 11.30–12.30 น. ให้รุ่นพี่ตอบคำถาม DEK70 แบบเรียล ๆ ควบคู่กับคลิป Recap คณะ",
+      "source_url": "https://www.tiktok.com/@rangsituniversity/video/7701668197358996756"
+    },
+    {
+      "title": "RSU Gen Talk X บริหารธุรกิจ (ไลฟ์คุยกับรุ่นพี่ แนะนำ 7 สาขา)",
+      "type": "webinar",
+      "faculty": "business",
+      "start_date": "2026-11-06",
+      "end_date": "2026-11-06",
+      "location": "TikTok Live @rangsituniversity",
+      "target": "DEK70",
+      "summary": "ซีรีส์ไลฟ์รายคณะ 11.30–12.30 น. ให้รุ่นพี่ตอบคำถาม DEK70 แบบเรียล ๆ ควบคู่กับคลิป Recap คณะ",
+      "source_url": "https://www.tiktok.com/@rangsituniversity/video/7704330340172565781"
+    }
+  ],
+  "scholarships": [
+    {
+      "name": "ทุนความสามารถพิเศษด้านครีเอเตอร์และศิลปิน ปีการศึกษา 2569",
+      "value_text": "ยกเว้นค่าหน่วยกิตและค่าบำรุงการศึกษา จำนวน 10 ทุน",
+      "value_pct": null,
+      "conditions": "ม.6 หรือเทียบเท่า, ทำคอนเทนต์/YouTuber บน FB IG X TikTok YouTube มียอดติดตามตามเกณฑ์ มีไอเดียและทักษะเล่าเรื่อง พร้อมสนับสนุนกิจกรรมมหาวิทยาลัย; ไม่ครอบคลุมกลุ่มวิทย์สุขภาพ สถาบันการบิน วิศวกรรมซ่อมบำรุงอากาศยาน",
+      "tcas_round": "unknown",
+      "faculty": "all",
+      "valid_from": null,
+      "valid_to": "2026-04-09",
+      "source_url": "https://www.eduzones.com/2026/01/29/rsu-41/"
+    },
+    {
+      "name": "ทุน Future Change Agent (ครบรอบ 40 ปี ม.รังสิต) ปี 2568",
+      "value_text": "ทุนตลอดหลักสูตร 100% จำนวน 40 ทุน",
+      "value_pct": 100,
+      "conditions": "นักเรียน ม.ปลายที่จะเข้าปี 2568 ทุกหลักสูตรยกเว้นแพทย์ ทันตะ เภสัช; ส่ง Portfolio ด้านผู้นำการเปลี่ยนแปลง (พลังงาน/สิ่งแวดล้อม, คุณภาพชีวิต/เศรษฐกิจ/สังคม, ศิลปะ/วัฒนธรรม/ซอฟต์พาวเวอร์) แล้วเข้า workshop; ครอบคลุมเฉพาะวิชาที่ ม.รังสิตสอน (รอบปีก่อน ไม่พบรอบ 2570)",
+      "tcas_round": "portfolio",
+      "faculty": "all",
+      "valid_from": "2025-01-16",
+      "valid_to": "2025-02-14",
+      "source_url": "https://www.eduzones.com/2025/01/16/rsu-37/"
+    },
+    {
+      "name": "ทุน RSU FAMILY",
+      "value_text": "ลด 10% ค่าหน่วยกิตและค่าบำรุงการศึกษาตลอดหลักสูตร",
+      "value_pct": 10,
+      "conditions": "พี่/น้อง/บุตรของศิษย์เก่าหรือนักศึกษาปัจจุบันโดยสายเลือด; ไม่ใช้กับแพทย์ ทันตะ เภสัช พยาบาล ดนตรี สถาบันการบิน วิศวกรรมซ่อมบำรุงอากาศยาน แพทย์แผนจีน (หน้าข่าวเก่า ระบุปี 2562 แต่ยังปรากฏในตารางค่าเทอม 2568)",
+      "tcas_round": "all",
+      "faculty": "all",
+      "valid_from": null,
+      "valid_to": null,
+      "source_url": "https://www2.rsu.ac.th/News/RSU-Family"
+    },
+    {
+      "name": "ทุนความสามารถพิเศษ (ครีเอเตอร์/ศิลปิน, กีฬา, ดนตรี, ศิลปวัฒนธรรม, สิ่งประดิษฐ์/กิจกรรมเสริมหลักสูตร, นิเทศ)",
+      "value_text": "ไม่ระบุมูลค่าในแหล่งที่พบ",
+      "value_pct": null,
+      "conditions": "รายการประเภททุนในตารางค่าเทอมปี 2568",
+      "tcas_round": "unknown",
+      "faculty": "all",
+      "valid_from": null,
+      "valid_to": null,
+      "source_url": "https://www.thairath.co.th/news/society/2854900"
+    },
+    {
+      "name": "ทุนวิทยาลัยนานาชาติจีน (International Chinese College) สาขาบริหารธุรกิจ",
+      "value_text": "ลด 30%",
+      "value_pct": 30,
+      "conditions": "ระบุในตารางค่าเทอม 2568 สำหรับหลักสูตรธุรกิจ วิทยาลัยนานาชาติจีน",
+      "tcas_round": "unknown",
+      "faculty": "business",
+      "valid_from": null,
+      "valid_to": null,
+      "source_url": "https://www.thairath.co.th/news/society/2854900"
+    }
+  ],
+  "pr_messages": [
+    {
+      "channel": "website",
+      "headline": "7 สิ่งมหัศจรรย์ ม.รังสิต",
+      "keywords": [
+        "7สิ่งมหัศจรรย์",
+        "RSUopenhouse2026",
+        "dek70"
+      ],
+      "theme": "lifestyle",
+      "faculty": "all",
+      "date": "2026-08-27",
+      "source_url": "https://openhouse.rsu.ac.th"
+    },
+    {
+      "channel": "website",
+      "headline": "ก้าวแรก… สู่เส้นทางที่ใช่",
+      "keywords": [
+        "เส้นทางที่ใช่",
+        "Open House",
+        "dek70"
+      ],
+      "theme": "career",
+      "faculty": "all",
+      "date": "2026-08-27",
+      "source_url": "https://openhouse.rsu.ac.th"
+    },
+    {
+      "channel": "website",
+      "headline": "ลองเรียนจริง เล่นจริง เข้าห้อง Lab จริง",
+      "keywords": [
+        "ลองเรียนจริง",
+        "Lab",
+        "Workshop"
+      ],
+      "theme": "career",
+      "faculty": "all",
+      "date": "2026-08-27",
+      "source_url": "https://page.line.me/628qxery"
+    },
+    {
+      "channel": "website",
+      "headline": "เรียน STEM ที่ม.รังสิต",
+      "keywords": [
+        "STEM"
+      ],
+      "theme": "tech_ai",
+      "faculty": "all",
+      "date": null,
+      "source_url": "https://www.rsu.ac.th"
+    },
+    {
+      "channel": "website",
+      "headline": "มหาวิทยาลัยแห่งความหลากหลาย",
+      "keywords": [
+        "ความหลากหลาย",
+        "หลายสาขา"
+      ],
+      "theme": "other",
+      "faculty": "all",
+      "date": null,
+      "source_url": "https://www.rsu.ac.th"
+    },
+    {
+      "channel": "website",
+      "headline": "RSU SUCCESS STORY",
+      "keywords": [
+        "success story",
+        "testimonials"
+      ],
+      "theme": "career",
+      "faculty": "all",
+      "date": null,
+      "source_url": "https://www.rsu.ac.th"
+    },
+    {
+      "channel": "news",
+      "headline": "Future Change Agent - ทุนครบรอบ 40 ปี เรียนฟรีตลอดหลักสูตร 100%",
+      "keywords": [
+        "Future Change Agent",
+        "ทุนเต็มจำนวน",
+        "40 ปี"
+      ],
+      "theme": "price",
+      "faculty": "all",
+      "date": "2025-01-16",
+      "source_url": "https://www.eduzones.com/2025/01/16/rsu-37/"
+    },
+    {
+      "channel": "news",
+      "headline": "ม.รังสิต เปิดรับนศ.ทุนความสามารถพิเศษด้านครีเอเตอร์และศิลปิน",
+      "keywords": [
+        "ครีเอเตอร์",
+        "ศิลปิน",
+        "ทุน"
+      ],
+      "theme": "creative",
+      "faculty": "digital_media",
+      "date": "2026-01-29",
+      "source_url": "https://www.eduzones.com/2026/01/29/rsu-41/"
+    },
+    {
+      "channel": "news",
+      "headline": "ไอที ม.รังสิต x สมาคมส่งเสริมผู้ลงทุนไทย ปั้นคนการเงินยุค AI",
+      "keywords": [
+        "AI",
+        "การเงิน",
+        "ความร่วมมือ"
+      ],
+      "theme": "tech_ai",
+      "faculty": "it",
+      "date": "2026-08-01",
+      "source_url": "https://www.naewna.com/business/980792"
+    },
+    {
+      "channel": "news",
+      "headline": "Young Grow ได้อีก Contest: นวัตกรรมดี แข่งทำคลิป",
+      "keywords": [
+        "content",
+        "ประสบการณ์จริง",
+        "digital marketing"
+      ],
+      "theme": "industry_partner",
+      "faculty": "business",
+      "date": "2026-04-07",
+      "source_url": "https://www.mitihoon.com/2026/04/07/631632/"
+    },
+    {
+      "channel": "news",
+      "headline": "ที่นี่… ประสบการณ์คือคำตอบ (Open House: เรียนจริง ทำจริง ลงมือจริง)",
+      "keywords": [
+        "ประสบการณ์",
+        "เรียนจริง ทำจริง"
+      ],
+      "theme": "career",
+      "faculty": "all",
+      "date": null,
+      "source_url": "https://www.marketingoops.com/?p=114741"
+    },
+    {
+      "channel": "news",
+      "headline": "#ทีมอาร์เอสยู (แคมเปญเก่า 2017 ใช้ตัวแทน 31 คณะ)",
+      "keywords": [
+        "ทีมอาร์เอสยู",
+        "Rangsit Way",
+        "ม.เอกชนที่มีสาขาหลากหลายที่สุด"
+      ],
+      "theme": "other",
+      "faculty": "all",
+      "date": "2017-03-03",
+      "source_url": "https://www.marketingoops.com/campaigns/local-campaigns/rsu-team"
+    }
+  ],
+  "offline_events": [],
+  "faculty_map": [
+    {
+      "competitor_faculty": "คณะนิเทศศาสตร์",
+      "spu_faculty": "digital_media"
+    },
+    {
+      "competitor_faculty": "วิทยาลัยการออกแบบ / คณะดิจิทัลอาร์ต",
+      "spu_faculty": "digital_media"
+    },
+    {
+      "competitor_faculty": "วิทยาลัยเทคโนโลยีนวัตกรรมดิจิทัล",
+      "spu_faculty": "it"
+    },
+    {
+      "competitor_faculty": "วิทยาลัยการท่องเที่ยวและการบริการ",
+      "spu_faculty": "tourism"
+    },
+    {
+      "competitor_faculty": "คณะสถาปัตยกรรมศาสตร์",
+      "spu_faculty": "architecture"
+    },
+    {
+      "competitor_faculty": "วิทยาลัยวิศวกรรมศาสตร์",
+      "spu_faculty": "engineering"
+    },
+    {
+      "competitor_faculty": "คณะศิลปศาสตร์",
+      "spu_faculty": "liberal_arts"
+    },
+    {
+      "competitor_faculty": "วิทยาลัยนานาชาติ / International Chinese College",
+      "spu_faculty": "liberal_arts"
+    },
+    {
+      "competitor_faculty": "คณะบริหารธุรกิจ / บัญชี / เศรษฐศาสตร์",
+      "spu_faculty": "business"
+    }
+  ],
+  "notes": "Official rsu.ac.th and admission pages were thin or non-extractable (JS/redirect); no TCAS70 round-specific scholarship table, camps, school roadshows or confirmed education-fair booths were found. Scholarship items are mostly older cycles (2568-2569); no 2570 scholarship announcement located. RSU Open House 2026 (27-29 Aug) is the main confirmed recruitment event; Facebook/IG/TikTok posts not visible via search. The 2017 #ทีมอาร์เอสยู campaign is historical. Tuition data (Thairath 2025/2026) available but not included. Education fair row is a placeholder noting unconfirmed participation. | ไม่พบการยืนยันบูธ RSU ในงาน Dek-D TCAS Fair 2026"
+}

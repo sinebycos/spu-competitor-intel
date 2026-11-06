@@ -1,0 +1,6 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    { "name": "spu-intel-app", "runtimeExecutable": "pnpm", "runtimeArgs": ["--dir", "/Users/sinebycos/Documents/Claude/SPU Intel", "dev"], "port": 3000 }
+  ]
+}

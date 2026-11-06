@@ -1,0 +1,520 @@
+{
+  "university": "utcc",
+  "collected_at": "2026-11-06",
+  "activities": [
+    {
+      "title": "UTCC Tutor ติวทั่วไทย พิชิตมหาลัยในฝัน 2026 (ติว TGAT ออนไซต์ 39 จังหวัด)",
+      "type": "workshop",
+      "faculty": "all",
+      "start_date": null,
+      "end_date": null,
+      "location": "ศูนย์การค้าเซ็นทรัล 39 จังหวัด (ระบุชื่อเฉพาะนครสวรรค์)",
+      "target": "ม.ปลาย / ผู้ปกครอง / ครู",
+      "summary": "โครงการติวฟรีปีที่ 4 (บางสื่อว่าปีที่ 11) ร่วมกับหอการค้าไทยและกลุ่มเซ็นทรัล ติว TGAT1-3 ออนไซต์ + แนะแนวต่อมหาวิทยาลัย สมัครผ่าน LINE @UTCCTUTOR ผู้เข้าร่วม 3 ปีแรกกว่า 73,000 คน",
+      "source_url": "https://www.mitihoon.com/2026/05/09/639606/"
+    },
+    {
+      "title": "UTCC Tutor 2026 ติวออนไลน์ TPAT และ A-Level",
+      "type": "webinar",
+      "faculty": "all",
+      "start_date": null,
+      "end_date": null,
+      "location": "ออนไลน์",
+      "target": "ม.ปลาย",
+      "summary": "ส่วนออนไลน์ของโครงการ UTCC Tutor ติววิชา TPAT และ A-Level ฟรี ไม่ระบุแพลตฟอร์มและตารางเรียน",
+      "source_url": "https://www.mitihoon.com/2026/05/09/639606/"
+    },
+    {
+      "title": "แถลงข่าวเปิดตัว UTCC Tutor 2026",
+      "type": "admission_event",
+      "faculty": "all",
+      "start_date": "2026-05-08",
+      "end_date": "2026-05-08",
+      "location": "Event Lab อาคาร 23 ชั้น 7 UTCC",
+      "target": "สื่อมวลชน / ทั่วไป",
+      "summary": "แถลงข่าวเปิดตัวโครงการ ธีม Unpack Your Dreams พร้อมเปิดรับลงทะเบียนผ่าน LINE OA",
+      "source_url": "https://mgronline.com/qol/detail/9690000043507"
+    },
+    {
+      "title": "พิธีเปิด UTCC Tutor 2026 ที่นครสวรรค์",
+      "type": "admission_event",
+      "faculty": "all",
+      "start_date": "2026-06-30",
+      "end_date": "2026-06-30",
+      "location": "นครสวรรค์ฮอลล์ ชั้น 3 เซ็นทรัล นครสวรรค์",
+      "target": "ม.ปลาย ผู้ปกครอง ครู",
+      "summary": "งานเปิดสนามติวแรก มีนักเรียน ผู้ปกครอง ครู กว่า 1,500 คน เข้าร่วมฟรี ติว TGAT และแนะแนว (วันที่อิงวันเผยแพร่ข่าว)",
+      "source_url": "https://www.thansettakij.com/general-news/662770"
+    },
+    {
+      "title": "UTCC JOB FAIR 2026",
+      "type": "student_activity",
+      "faculty": "all",
+      "start_date": "2026-09-18",
+      "end_date": "2026-09-19",
+      "location": "หอประชุมมหาวิทยาลัยหอการค้าไทย",
+      "target": "นักศึกษา UTCC และศิษย์เก่า",
+      "summary": "มหกรรมหางานจัดกับหอการค้าไทยและ YEC กว่า 2,000 อัตรา เกือบ 100 บริษัท ใช้ขายจุดเด่นเรื่องงานหลังเรียนจบ",
+      "source_url": "https://www.thansettakij.com/general-news/668770"
+    },
+    {
+      "title": "TCISM Job Fair 2026 และเวทีเสวนาองค์กรจีน (Bank of China, Huawei, BYD, iQIYI)",
+      "type": "student_activity",
+      "faculty": "business",
+      "start_date": null,
+      "end_date": null,
+      "location": null,
+      "target": "นักศึกษา TCISM / ผู้สนใจ",
+      "summary": "วิทยาลัยนานาชาติไทย-จีนฯ จัดเสวนาและ Job Fair กับสมาคมวิสาหกิจจีนในประเทศไทย บริษัทจีนเปิดบูธรับสมัครงาน (ข่าว 28 เม.ย. 2569)",
+      "source_url": "https://www.mitihoon.com/2026/04/28/636421/"
+    },
+    {
+      "title": "ค่ายผู้ประกอบการรุ่นเล็ก...เด็กหัวการค้า",
+      "type": "camp",
+      "faculty": "business",
+      "start_date": null,
+      "end_date": null,
+      "location": null,
+      "target": "ม.ปลาย ที่สนใจทุน β-Young Entrepreneur",
+      "summary": "ค่ายบังคับสำหรับผู้สมัครทุน β-Young Entrepreneur ของวิทยาลัยผู้ประกอบการ ไม่ระบุวันที่",
+      "source_url": "https://www.utcc.ac.th/undergraduate-info/"
+    },
+    {
+      "title": "Study visit ของ มสธ. ดูโครงการ Ai UTCC ที่ Ai Zone",
+      "type": "other",
+      "faculty": "it",
+      "start_date": null,
+      "end_date": null,
+      "location": "Ai Zone ห้องสมุดกลาง UTCC",
+      "target": "ผู้บริหารมหาวิทยาลัย",
+      "summary": "กิจกรรม PR แสดง Jarvis Agentic AI v2, Ai-RAID ใช้ตอกย้ำภาพ AI-First University (ข่าว 30 เม.ย. 2569)",
+      "source_url": "https://mgronline.com/qol/detail/9690000040631"
+    },
+    {
+      "title": "นักศึกษา Harbour.Space@UTCC 2 คนแข่ง IOAI/APOAI 2026 ได้เหรียญเงินและเหรียญทองแดง",
+      "type": "competition",
+      "faculty": "it",
+      "start_date": "2026-08-02",
+      "end_date": "2026-08-08",
+      "location": "Astana, Kazakhstan",
+      "target": "ผลงานนักศึกษา ใช้เป็นเนื้อหา PR",
+      "summary": "ทีมไทยแข่ง AI Olympiad นักศึกษา 2 คนถือทุนเต็มจำนวนของ Harbour.Space@UTCC ใช้ PR เรื่องรับเด็กมีศักยภาพ (ข่าว 24 ก.ย. 2569)",
+      "source_url": "https://mgronline.com/qol/detail/9690000093335"
+    },
+    {
+      "title": "รอบสมัคร Harbour.Space@UTCC หลักสูตรนานาชาติ 3 ปี (สอบ/สัมภาษณ์ ต้นพ.ย.)",
+      "type": "admission_event",
+      "faculty": "it",
+      "start_date": null,
+      "end_date": null,
+      "location": "UTCC",
+      "target": "ม.ปลาย / นานาชาติ",
+      "summary": "หน้าเว็บแสดงไทม์ไลน์ปี 2568 (สมัคร 1 ก.ย.-29 ต.ค., สอบสัมภาษณ์ 1/8/9 พ.ย.) อาจยังไม่อัปเดตเป็นรอบปี 2569-70 ค่าสมัคร 300 บาท",
+      "source_url": "https://www.utcc.ac.th/admission"
+    }
+  ],
+  "scholarships": [
+    {
+      "name": "ทุน Harbour.Space Polaris",
+      "value_text": "ทุนเต็มจำนวน 100% (เรียน 3 ชม./วัน ทำงาน 4 ชม./วัน)",
+      "value_pct": 100,
+      "conditions": "หลักสูตรนานาชาติ 3 ปี ผ่านสอบอังกฤษ คณิต critical thinking และสัมภาษณ์ รวม 20 ทุนสำหรับปีการศึกษา 2569",
+      "tcas_round": "direct",
+      "faculty": "it",
+      "valid_from": null,
+      "valid_to": null,
+      "source_url": "https://www.utcc.ac.th/admission"
+    },
+    {
+      "name": "ทุน Harbour.Space Co-Creator",
+      "value_text": "ลด 70-90% ของค่าเล่าเรียน",
+      "value_pct": null,
+      "conditions": "ตามความสามารถ ต้องร่วมกิจกรรมมหาวิทยาลัย",
+      "tcas_round": "direct",
+      "faculty": "it",
+      "valid_from": null,
+      "valid_to": null,
+      "source_url": "https://www.utcc.ac.th/admission"
+    },
+    {
+      "name": "ทุน UTCC Gold",
+      "value_text": "ลด 40% ของค่าเล่าเรียนแบบเหมาจ่าย",
+      "value_pct": 40,
+      "conditions": "GPA 3.00 ขึ้นไปและรักษาทุกเทอม ลงทะเบียน 15 หน่วยกิตขึ้นไป ไม่ให้คณะบริหารธุรกิจและคณะบัญชี",
+      "tcas_round": "unknown",
+      "faculty": "all",
+      "valid_from": null,
+      "valid_to": null,
+      "source_url": "https://www.utcc.ac.th/undergraduate-info/"
+    },
+    {
+      "name": "ทุน UTCC Silver",
+      "value_text": "ลด 25% ของค่าเล่าเรียนแบบเหมาจ่าย",
+      "value_pct": 25,
+      "conditions": "GPA 2.50 ขึ้นไป รักษา 2.75 ขึ้นไปทุกเทอม",
+      "tcas_round": "unknown",
+      "faculty": "all",
+      "valid_from": null,
+      "valid_to": null,
+      "source_url": "https://www.utcc.ac.th/undergraduate-info/"
+    },
+    {
+      "name": "ทุนรัตนมงคล",
+      "value_text": "ยกเว้นค่าเล่าเรียนและค่าธรรมเนียมสูงสุด 4 ปี + อุปกรณ์ Digital Hybrid Learning 1 ชุด (จ่ายเอง 4,200 บาท/เทอม หลักสูตรไทย)",
+      "value_pct": null,
+      "conditions": "GPAX 3.50 ขึ้นไป รักษาทุกเทอม สัมภาษณ์พร้อม portfolio เลือกได้ 1 คณะ สมัครผ่าน LINE @utcccare",
+      "tcas_round": "unknown",
+      "faculty": "all",
+      "valid_from": null,
+      "valid_to": null,
+      "source_url": "https://www.utcc.ac.th/undergraduate-info/"
+    },
+    {
+      "name": "ทุนความสามารถพิเศษ (3 ประเภท)",
+      "value_text": "5,000 / 10,000 บาทต่อปี หรือเต็มจำนวนค่าเล่าเรียน 4 ปี",
+      "value_pct": null,
+      "conditions": "มีรางวัลด้านศิลปะ ดนตรี ออกแบบ กีฬา ผู้ประกอบการ GPA 2.25 ขึ้นไป",
+      "tcas_round": "portfolio",
+      "faculty": "all",
+      "valid_from": null,
+      "valid_to": null,
+      "source_url": "https://www.utcc.ac.th/undergraduate-info/"
+    },
+    {
+      "name": "ทุนนักกีฬา (80 ทุน)",
+      "value_text": "ลด 100% หรือ 50% ของค่าเล่าเรียน",
+      "value_pct": 100,
+      "conditions": "eSports เปตอง แบดมินตัน เทนนิส บาส ฟุตซอล บอดี้บิลดิ้ง ยูโด/จิวจิตสู ปิงปอง เชียร์ลีดเดอร์ 3x3 ฯลฯ GPA 2.00 ขึ้นไป อายุไม่เกิน 20 มีผลงานย้อนหลัง 3 ปี",
+      "tcas_round": "portfolio",
+      "faculty": "all",
+      "valid_from": null,
+      "valid_to": null,
+      "source_url": "https://www.utcc.ac.th/undergraduate-info/"
+    },
+    {
+      "name": "ทุนผู้ประกอบการรุ่นใหม่เพื่อสังคม (β-Young Entrepreneur)",
+      "value_text": "ยกเว้นค่าเล่าเรียนและค่าธรรมเนียมเทอม 1-2 ของทุกปี สูงสุด 4 ปี + อุปกรณ์ Digital Hybrid Learning",
+      "value_pct": null,
+      "conditions": "ผ่านค่ายเด็กหัวการค้า GPA 2.50 ขึ้นไป สนใจธุรกิจ ทุนจากไทยเบฟผ่านมูลนิธิสิริวัฒนภักดี",
+      "tcas_round": "portfolio",
+      "faculty": "business",
+      "valid_from": null,
+      "valid_to": null,
+      "source_url": "https://www.utcc.ac.th/undergraduate-info/"
+    },
+    {
+      "name": "ทุนสนับสนุนค่าใช้จ่ายรายเดือน β-Young Entrepreneur Plus",
+      "value_text": "6,000 บาท/เดือน นาน 12 เดือน",
+      "value_pct": null,
+      "conditions": "นักศึกษาปี 1 วิทยาลัยผู้ประกอบการ GPA ตามเกณฑ์ (หน้าเว็บระบุ 2.50 และ 2.75) ร่วมโครงการธุรกิจ 2 โครงการ",
+      "tcas_round": "portfolio",
+      "faculty": "business",
+      "valid_from": null,
+      "valid_to": null,
+      "source_url": "https://www.utcc.ac.th/undergraduate-info/"
+    },
+    {
+      "name": "ทุน ปวส. ต่อเนื่อง",
+      "value_text": "ยกเว้นค่าเล่าเรียนและค่าธรรมเนียม 100% สูงสุด 2 ปี + ซื้อ iPad ราคาพิเศษ",
+      "value_pct": 100,
+      "conditions": "กำลังเรียนหรือจบ ปวส. GPA 3.50 ขึ้นไป",
+      "tcas_round": "direct",
+      "faculty": "all",
+      "valid_from": null,
+      "valid_to": null,
+      "source_url": "https://www.utcc.ac.th/undergraduate-info/"
+    },
+    {
+      "name": "ทุนคนดี",
+      "value_text": "10,000 บาท/ปี นาน 4 ปี (รวม 40,000)",
+      "value_pct": null,
+      "conditions": "มีประวัติทำประโยชน์เพื่อสังคม GPA 2.00 ขึ้นไป ผ่านกรรมการคัดเลือก",
+      "tcas_round": "unknown",
+      "faculty": "all",
+      "valid_from": null,
+      "valid_to": null,
+      "source_url": "https://www.utcc.ac.th/undergraduate-info/"
+    },
+    {
+      "name": "ทุนดนตรีไทยและนาฏศิลป์",
+      "value_text": "ยกเว้นค่าหน่วยกิต ค่าบำรุง ค่าแล็บ ค่าเครื่องปรับอากาศ ตลอดปีการศึกษา",
+      "value_pct": null,
+      "conditions": "GPA 2.50 ขึ้นไป สอบปฏิบัติด้วย portfolio ค่าสมัคร 500 บาท",
+      "tcas_round": "portfolio",
+      "faculty": "all",
+      "valid_from": null,
+      "valid_to": null,
+      "source_url": "https://www.utcc.ac.th/undergraduate-info/"
+    },
+    {
+      "name": "ทุน START UP (โปร DEK70 เดือนพฤศจิกายน)",
+      "value_text": "ทุนสูงสุด 20,000 บาท + ฟรีค่าสมัคร 500 บาท + จ่ายค่าเทอมบางส่วน 4,000 บาทเป็นนักศึกษาทันที + iPad + Canva Pro/Copilot ฟรี",
+      "value_pct": null,
+      "conditions": "ใช้เกรดเฉลี่ยสะสม 4 หรือ 5 เทอม ยื่นกู้ กยศ. ได้ เงื่อนไขตามมหาวิทยาลัยกำหนด (พบจาก TikTok/IG ทางการ)",
+      "tcas_round": "direct",
+      "faculty": "all",
+      "valid_from": "2026-11-01",
+      "valid_to": "2026-11-30",
+      "source_url": "https://www.tiktok.com/@dekutcc/video/7703857872211348737"
+    }
+  ],
+  "pr_messages": [
+    {
+      "channel": "news",
+      "headline": "AI-First University",
+      "keywords": [
+        "AI-First",
+        "Agentic AI",
+        "Jarvis",
+        "Chat.UTCC"
+      ],
+      "theme": "tech_ai",
+      "faculty": "all",
+      "date": "2026-06-27",
+      "source_url": "https://www.bangkokbiznews.com/sustainability/education/1240447"
+    },
+    {
+      "channel": "news",
+      "headline": "ตรงปก Ai University ที่จับต้องได้",
+      "keywords": [
+        "Ai-Zone",
+        "Jarvis Agentic AI",
+        "Ai-RAID"
+      ],
+      "theme": "tech_ai",
+      "faculty": "all",
+      "date": "2026-04-30",
+      "source_url": "https://mgronline.com/qol/detail/9690000040631"
+    },
+    {
+      "channel": "news",
+      "headline": "Unpack Your Dreams - เปิดแฟ้มความรู้ ปลดล็อก มหา'ลัยในฝัน",
+      "keywords": [
+        "UTCC Tutor",
+        "TGAT",
+        "ติวฟรี"
+      ],
+      "theme": "other",
+      "faculty": "all",
+      "date": "2026-05-08",
+      "source_url": "https://www.mitihoon.com/2026/05/09/639606/"
+    },
+    {
+      "channel": "news",
+      "headline": "UTCC Tutor ติวทั่วไทย พิชิตมหาลัยในฝัน 2026",
+      "keywords": [
+        "ติวฟรี 39 จังหวัด",
+        "เซ็นทรัล",
+        "หอการค้าไทย"
+      ],
+      "theme": "industry_partner",
+      "faculty": "all",
+      "date": "2026-06-30",
+      "source_url": "https://www.thansettakij.com/general-news/668770"
+    },
+    {
+      "channel": "news",
+      "headline": "ประตูสู่โลกการทำงาน ก้าวแรกสู่อนาคตที่ใช่",
+      "keywords": [
+        "Job Fair",
+        "UTCC Career Sync",
+        "หอการค้าไทย"
+      ],
+      "theme": "career",
+      "faculty": "all",
+      "date": "2026-09-18",
+      "source_url": "https://www.thansettakij.com/general-news/668770"
+    },
+    {
+      "channel": "news",
+      "headline": "Practice University / พร้อมใช้งานจริง",
+      "keywords": [
+        "Practice-Based Learning",
+        "ready for real world"
+      ],
+      "theme": "career",
+      "faculty": "all",
+      "date": "2026-04-28",
+      "source_url": "https://www.mitihoon.com/2026/04/28/636421/"
+    },
+    {
+      "channel": "news",
+      "headline": "เด็กหัวการค้า",
+      "keywords": [
+        "เด็กหัวการค้า",
+        "AI + ธุรกิจ"
+      ],
+      "theme": "career",
+      "faculty": "business",
+      "date": "2026-06-27",
+      "source_url": "https://www.bangkokbiznews.com/sustainability/education/1240447"
+    },
+    {
+      "channel": "news",
+      "headline": "Happy University / Play and Learn",
+      "keywords": [
+        "board game library",
+        "cafe",
+        "karaoke"
+      ],
+      "theme": "lifestyle",
+      "faculty": "all",
+      "date": "2026-06-27",
+      "source_url": "https://www.bangkokbiznews.com/sustainability/education/1240447"
+    },
+    {
+      "channel": "news",
+      "headline": "AI Smart User และ AI Smart Creator",
+      "keywords": [
+        "AI 101",
+        "AI tracks"
+      ],
+      "theme": "tech_ai",
+      "faculty": "all",
+      "date": "2026-06-27",
+      "source_url": "https://www.bangkokbiznews.com/sustainability/education/1240447"
+    },
+    {
+      "channel": "news",
+      "headline": "เครือข่ายหอการค้าไทย ~263,785 ราย และ 143 สถาบันพันธมิตรต่างประเทศ",
+      "keywords": [
+        "Thai Chamber network",
+        "international partners"
+      ],
+      "theme": "industry_partner",
+      "faculty": "all",
+      "date": "2026-06-27",
+      "source_url": "https://www.bangkokbiznews.com/sustainability/education/1240447"
+    },
+    {
+      "channel": "news",
+      "headline": "Harbour.Space@UTCC recruits students with potential, funded in full from the start",
+      "keywords": [
+        "Harbour.Space",
+        "ทุนเต็มจำนวน",
+        "AI Olympiad"
+      ],
+      "theme": "international",
+      "faculty": "it",
+      "date": "2026-09-24",
+      "source_url": "https://mgronline.com/qol/detail/9690000093335"
+    },
+    {
+      "channel": "website",
+      "headline": "ขั้นตอนง่าย สมัครออนไลน์ได้ทันที",
+      "keywords": [
+        "สมัครออนไลน์",
+        "admissions.utcc.ac.th"
+      ],
+      "theme": "other",
+      "faculty": "all",
+      "date": null,
+      "source_url": "https://www.utcc.ac.th/admission"
+    },
+    {
+      "channel": "website",
+      "headline": "โลกทั้งใบคือห้องเรียนของเด็กท่องเที่ยว",
+      "keywords": [
+        "ท่องเที่ยว",
+        "study trip"
+      ],
+      "theme": "career",
+      "faculty": "tourism",
+      "date": null,
+      "source_url": "https://www.utcc.ac.th/undergraduate/"
+    },
+    {
+      "channel": "website",
+      "headline": "พยาบาลพันธุ์ใหม่แห่งโลกอนาคต",
+      "keywords": [
+        "พยาบาลศาสตร์"
+      ],
+      "theme": "career",
+      "faculty": "all",
+      "date": null,
+      "source_url": "https://www.utcc.ac.th/undergraduate/"
+    },
+    {
+      "channel": "news",
+      "headline": "ทุกคนได้ใช้ Canva Pro ฟรี และ AI Platform / ลงทุนกว่า 100 ล้านบาท WiFi 7 ร่วมกับ Huawei",
+      "keywords": [
+        "Canva Pro",
+        "Huawei",
+        "WiFi 7"
+      ],
+      "theme": "tech_ai",
+      "faculty": "all",
+      "date": "2025-03-13",
+      "source_url": "https://www.bangkokbiznews.com/health/education/1170920"
+    }
+  ],
+  "offline_events": [
+    {
+      "event_name": "UTCC Tutor 2026 พิธีเปิดสนามนครสวรรค์",
+      "venue": "นครสวรรค์ฮอลล์ ชั้น 3 เซ็นทรัล นครสวรรค์",
+      "province": "นครสวรรค์",
+      "date": "2026-06-30",
+      "event_type": "school_roadshow",
+      "faculty": "all",
+      "summary": "งานเปิดสนามติวฟรี มีผู้เข้าร่วมกว่า 1,500 คน วันที่อิงวันเผยแพร่ข่าว",
+      "source_url": "https://www.thansettakij.com/general-news/668770"
+    },
+    {
+      "event_name": "UTCC Tutor 2026 ติวออนไซต์สัญจร 39 จังหวัด",
+      "venue": "ศูนย์การค้าเซ็นทรัล 8 แห่ง และพื้นที่อื่น (ไม่ระบุสาขา)",
+      "province": "39 จังหวัดทั่วประเทศ",
+      "date": null,
+      "event_type": "school_roadshow",
+      "faculty": "all",
+      "summary": "ติว TGAT ฟรี + แนะแนว รายชื่อจังหวัดและวันที่ไม่พบในแหล่งสาธารณะ",
+      "source_url": "https://www.thaipr.net/?p=3736106"
+    }
+  ],
+  "faculty_map": [
+    {
+      "competitor_faculty": "คณะบริหารธุรกิจ",
+      "spu_faculty": "business"
+    },
+    {
+      "competitor_faculty": "คณะบัญชี",
+      "spu_faculty": "business"
+    },
+    {
+      "competitor_faculty": "วิทยาลัยผู้ประกอบการ / คณะการสร้างเจ้าของธุรกิจสร้างสรรค์",
+      "spu_faculty": "business"
+    },
+    {
+      "competitor_faculty": "คณะวิทยาศาสตร์และเทคโนโลยี",
+      "spu_faculty": "it"
+    },
+    {
+      "competitor_faculty": "Harbour.Space@UTCC",
+      "spu_faculty": "it"
+    },
+    {
+      "competitor_faculty": "คณะนิเทศศาสตร์",
+      "spu_faculty": "digital_media"
+    },
+    {
+      "competitor_faculty": "คณะดิจิทัลอาร์ตและดีไซน์",
+      "spu_faculty": "digital_media"
+    },
+    {
+      "competitor_faculty": "คณะวิศวกรรมศาสตร์",
+      "spu_faculty": "engineering"
+    },
+    {
+      "competitor_faculty": "คณะการท่องเที่ยวและอุตสาหกรรมบริการ",
+      "spu_faculty": "tourism"
+    },
+    {
+      "competitor_faculty": "คณะมนุษยศาสตร์",
+      "spu_faculty": "liberal_arts"
+    },
+    {
+      "competitor_faculty": "วิทยาลัยนานาชาติไทย-จีนเพื่อการจัดการ",
+      "spu_faculty": "liberal_arts"
+    }
+  ],
+  "notes": "UTCC ไม่มีคณะสถาปัตยกรรม ทุนในหน้า undergraduate-info ไม่ระบุรอบ TCAS/วันที่ (tcas_round ที่ระบุ portfolio/direct เป็นการประมาณจากเงื่อนไขทุน) ไม่พบประกาศ TCAS70 รายรอบ, open house ปริญญาตรี, ค่ายรายคณะ, บูธ education fair หรือโพสต์ FB/IG/TikTok ผ่านการค้นหา (UTCC Open House ที่พบเป็นระดับ ป.โท-เอก ปี 2568 จึงไม่รวม) UTCC Tutor บางสื่อระบุปีที่ 4 บางสื่อระบุปีที่ 11 ข้อมูล Harbour.Space timeline บนเว็บยังเป็นปี 2568 pr_messages ส่วนใหญ่มาจากข่าว ไม่ใช่ช่องทางโซเชียลโดยตรง"
+}
